@@ -1,0 +1,936 @@
+"Total knee arthroplasty: posterior tibial slope influences the size but not the rotational alignment of the tibial component."
+https://www.ncbi.nlm.nih.gov/pubmed/32030500
+['This study investigates the influence of tibial slope on the ATA and the size of the resected tibial surface.CT scans of 20 cadaver knees were orientated in a standardized coordinate system and used to determine the position of the centres of rotation of the medial and lateral tibial articular surfaces and, hence, of the ATA, after a virtual resection of 6\xa0mm with 0°, 3.5°, 7° and 10° slope, respectively.', 'The reasons leading to rotational tibial malalignment in total knee arthroplasties (TKAs) remain unclear.']
+
+"The use of an asymmetrical tibial tray in TKA optimises tibial rotation when fitted to the posterior tibial plateau border."
+https://www.ncbi.nlm.nih.gov/pubmed/32006074
+['These measurements were also compared between varus and valgus subgroups.For the varus and valgus subgroups, the mean postoperative femoral angle was 2.1º\u2009±\u20091.2º and 2.5º\u2009±\u20091.0º, respectively (n.s.).', 'The tibial rotations with respect to the femoral component for the varus and valgus groups were 0.9º\u2009±\u20093.3º and 2.2º\u2009±\u20093.1º of external rotation, respectively (n.s.']
+
+"Revisiting the tibial crest as reference for the mechanical alignment of the tibial component in total knee arthroplasty: a cadaveric study on Caucasian tibiae."
+https://www.ncbi.nlm.nih.gov/pubmed/32002790
+['When a straight course was found, the mean angle between the TC and MA was 2.9°.', 'When a curved course was found, the TC intersected the MA at proximal and distal points located, on average 22.4% and 63.3% along the tibial length, respectively.']
+
+"Optimal rotational positioning of tibial component in total knee arthroplasty: determined by linker surgical technique using a high definition CT."
+https://www.ncbi.nlm.nih.gov/pubmed/31965282
+['The rotational alignment of femoral and tibial components is an important determinant of the success of Total Knee Arthroplasty (TKA).', 'The purpose of this study was (1) to determine the pre-operative S-TEA (surgical-transepicondylar axis) derived tibialanteroposterior (AP) axis angle and postoperative tibial component axis angle using a "Bird\'s eye" high-definition CT image in TKA performed by Linker surgical technique; (2) to determine the femorotibial mismatch angle; and (3) to determine the optimal tibial component rotation in a well-aligned femoral and tibial components.55 knees in 49 osteoarthritis patients who underwent primary TKA by Linker surgical technique were evaluated.']
+
+"Influence of total knee arthroplasty on hip rotational range of motion."
+https://www.ncbi.nlm.nih.gov/pubmed/31902856
+['Variations in tibial axis alignment compared to femoral axis alignment by bone resections were also examined as changes in the joint lines of the distal femur and the proximal tibia using plain radiography and computed tomography.The average internal and sum of the internal and external hip rotational ROM increased significantly; however, the external hip rotational ROM was not significantly changed after TKA.', 'Total knee arthroplasty (TKA) aims to correct the rotation as well as the alignment and the articulation of the osteoarthritic knee.']
+
+"Patient-specific instrumentation improves functional kinematics of minimally-invasive total knee replacements as revealed by computerized 3D fluoroscopy."
+https://www.ncbi.nlm.nih.gov/pubmed/31838341
+['The success may be related to the tradeoff between a small incision and accurate positioning of the implant components.', 'The purpose of the current study was to measure and compare the in vivo three-dimensional (3D) rigid-body and surface kinematics of MIS-TKA implanted with and without PSI during isolated knee active flexion/extension and sit-to-stand using state-of-the-art 3D model-based fluoroscopy technology.Ten patients treated for advanced medial knee osteoarthritis by MIS-TKA without PSI (non-PSI group) and nine with PSI (PSI group) participated in the current study.']
+
+"Augmented reality-based navigation system applied to tibial bone resection in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/31712907
+['We performed computed tomography of the resected sawbones and measured the varus/valgus, posterior slope, and internal/external rotation angles using a designated computer software.', 'This pilot study was performed to examine the accuracy of the AR-KNEE system, an imageless navigation system using augmented reality (AR) technology for total knee arthroplasty.']
+
+"Methods of intra- and post-operative determination of the position of the tibial component during total knee replacement."
+https://www.ncbi.nlm.nih.gov/pubmed/31655885
+['We included studies about primary TKA with details concerning the anatomical landmarks used for implanting the tibial component and also imaging studies assessing tibial component rotation.', 'To identify the most reliable anatomical landmarks and imaging techniques for assessing the rotation of the tibial component in total knee arthroplasty (TKA).An extensive literature review (from January 2016 to March 2019) was performed.']
+
+"Less gap imbalance with restricted kinematic alignment than with mechanically aligned total knee arthroplasty: simulations on 3-D bone models created from CT-scans."
+https://www.ncbi.nlm.nih.gov/pubmed/31610681
+['rKA was defined by the following criteria: independent tibial and femoral cuts within 5° of the bone neutral mechanical axis, with a resulting HKA within 3° of neutral.', 'rKA may be the best compromise, by helping the surgeon to preserve native knee ligament balance during TKA and avoid residual instability, whilst keeping the lower limb alignment within a safe range.']
+
+"Effect of surgical parameters on the biomechanical behaviour of bicondylar total knee endoprostheses - A robot-assisted test method based on a musculoskeletal model."
+https://www.ncbi.nlm.nih.gov/pubmed/31601894
+['This enabled us to systematically analyse the impact of the posterior cruciate ligament (PCL), tibial slope, and tibial component rotation on TKR function while considering the physical implant components and physiological-like conditions during dynamic motions.', 'Therefore, we deployed a robot-assisted test method, in which a six-axis robot moved and loaded a bicondylar cruciate-retaining (CR)-TKR in a virtual lower extremity emulated by a musculoskeletal multibody model.']
+
+"Tibiofemoral rotation is related to differences in the lateral femoral condyle configuration in both normal subjects and women with hip dysplasia: a three-dimensional analysis."
+https://www.ncbi.nlm.nih.gov/pubmed/31366348
+['We found that the length of the posterior part of the lateral femoral condyle was significantly positively correlated with knee rotation angle in both the normal and developmental dysplasia of the hip groups, and this finding indicates that a greater posterolateral dimension was associated with a greater knee rotation angle.', 'We examined the parameters affecting knee rotation angle, such as the condylar twist angle and femoral condyle measurements with a three-dimensional bone model using the correlation coefficients of each parameter.The condylar twist angle and the length of the posterior part of the lateral femoral condyle were statistically positively correlated with knee rotation angle in both the normal (condylar twist angle: r\u2009=\u20090.286, p\u2009=\u20090.007, posterolateral: r\u2009=\u20090.429, p\u2009<\u20090.001) and developmental dysplasia of the hip groups (condylar twist angle: r\u2009=\u20090.230, p\u2009=\u20090.033, posterolateral: r\u2009=\u20090.272, p\u2009=\u20090.005).']
+
+"Can total knee arthroplasty restore the correlation between radiographic mechanical axis angle and dynamic coronal plane alignment during gait?"
+https://www.ncbi.nlm.nih.gov/pubmed/31047797
+['Total knee arthroplasty (TKA) is the treatment of choice for end-stage knee osteoarthritis.', 'Three-dimensional knee kinematics during treadmill gait were assessed pre-operatively, 12\u202fmonths after surgery, and compared to a control group of 17 asymptomatic participants.Mean radiographic mechanical alignment was corrected from 5.4°\u202f±\u202f5.0 (Standard Deviation) varus pre-operatively to 0.1°\u202f±\u202f2.0 (Standard Deviation) valgus postoperatively (P\u202f=\u202f0.002).']
+
+"Patient-Specific Instrumentation Does Not Affect Rotational Alignment of the Femoral Component and Perioperative Blood Loss in Total Knee Arthroplasty: A Prospective, Randomized, Controlled Trial."
+https://www.ncbi.nlm.nih.gov/pubmed/30979672
+['Two months after surgery, a computed tomography of the knee was obtained to measure femoral component rotation to the transepicondylar axis and tibial component slope.Sixty-nine patients were enrolled.', 'The results of this study do not support its routine use during standard TKA.Level I, randomized, controlled trial.ClinicalTrials.gov NCT01876654.Copyright © 2019 Elsevier Inc. All rights reserved.alignment; blood loss; patient-specific instrumentation; rotation; time; total knee arthroplasty']
+
+"The Posterolateral Corner-Locked Technique Is Applicable in a Chinese Population Regarding the Tibial Component Rotation Alignment in Total Knee Arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/30763954
+['This study aims to assess the applicability of this technique in a Chinese population.', 'The transepicondylar axis (TEA), the Akagi line, and the line connecting the medial third of the tibial tubercle with the midpoint of the posterior cruciate ligament (PCL) were projected to the tibial cross-section and marked.']
+
+"Coronal tibial alignment is linked to femoral rotational asymmetry: Implications for total knee arthroplasty surgery."
+https://www.ncbi.nlm.nih.gov/pubmed/30745220
+['We hypothesize that FRA increases as the tibial plateau becomes more varus due to internal rotation of the posterior condyles and external rotation of the trochlear groove to ensure a vertical trochlear groove at 90o knee flexion.Seventy lower limb Computed Tomography (CT) scans were reviewed by two examiners.', 'The effect is to maintain a more vertical trochlear groove during flexion in the presence of a varus tibia.Crown Copyright © 2019.']
+
+"Antero-posterior axis of tibia in patient undergoing total knee replacement in Indian population."
+https://www.ncbi.nlm.nih.gov/pubmed/30705540
+['This is particularly helpful for those surgeons, who prepare the femur earlier than the tibial cut and trial.This tibial AP axis along with other anatomical landmarks is a reliable and reproducible landmark for implanting the tibial prosthesis in a proper rotational alignment in the Indian population.Antero-Posterior Axis; Tibia; Total Knee Replacement', 'This axis remained the closest irrespective of the varying femoro-tibial angle and severity of tibial bowing.In our patients, the line connecting the medial border of patellar tendon to the centre of the PCL has been found to be an independent, reliable and reproducible rotational axis for placing the tibial trial and definitivite prosthesis.']
+
+"A proposed new rotating reference axis for the tibial component after proximal tibial resection in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/30571784
+['We used paired t-tests to determine the significance of differences between these angles, with p < 0.05 indicating statistical significance.', 'We speculated that a line that passes through the lateral edge of the posterior cruciate ligament (PCL) at its tibial attachment after resection and the most prominent point of the tibial tubercle [after-tibial resection (ATR) line] will provide a good reference axis.']
+
+"Distal Femoral Rotation is not Associated With Preoperative Proximal Tibial Varus Angle in Patients With Isolated Medial Compartment Osteoarthritis."
+https://www.ncbi.nlm.nih.gov/pubmed/30377013
+['Two patient groups were created based on TPTS angle: TPTS ≤4° (mild varus) and TPTS >4° (moderate varus).', 'These works suggest that measuring the tibial plateau-tibial shaft (TPTS) angle on preoperative weight-bearing long leg radiographs could predict significant variations in the posterior condylar angle.A minimum of 68 patients were needed to reach 80% power.']
+
+"Highly variable tibial tubercle-trochlear groove distance (TT-TG) in osteoarthritic knees should be considered when performing TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/30242453
+['With the aim of having a more personalised TKA, the individual TT-TG should be taken into account to improve the outcome.III.', 'There were no significant correlations between parameters of rotational alignment (AVF, ETT, Rot FT) and TT-TG.']
+
+"The original Akagi line is the most reliable: a systematic review of landmarks for rotational alignment of the tibial component in TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/30203197
+['Twenty-one articles met criteria, and their data were extracted and tabulated.The selected articles evaluated 15 different axes, 13 for reliability, 12 for repeatability.', 'There is no present consensus on the most reliable anatomical landmarks or axes for tibial rotational alignment in total knee arthroplasty (TKA).']
+
+"Assessment of Loosening and Rotational Malalignment Following Knee Endoprosthesis or Other Surgical Components."
+https://www.ncbi.nlm.nih.gov/pubmed/30134467
+['We then present the most important axial plane rotational references for the femoral and the tibial components.', 'Total knee arthroplasty (TKA) has significant medical and economic implications.']
+
+"Relationship Between Coronal Alignment and Rotational Profile of Lower Extremity in Patients With Knee Osteoarthritis."
+https://www.ncbi.nlm.nih.gov/pubmed/30126713
+['We aimed at determining whether the coronal alignment of lower extremity was related to rotational geometry of distal femur, femoral anteversion, and tibial torsion in patients with knee osteoarthritis.A total of 422 lower extremities were divided into 3 groups according to the coronal alignment: valgus (n\xa0= 31), neutral (n\xa0= 78), and varus group (n\xa0= 313).', 'Tibial torsion was evaluated by measuring the angle between the posterior condyles of the proximal tibia and the transmalleolar axis.As the coronal alignment changed from varus to valgus, the condylar twisting angle increased (r\xa0= 0.253, P < .001; 6.6° in varus, 7.4° in neutral, and 10.2° in valgus group).']
+
+"Bony landmarks with tibial cutting surface are useful to avoid rotational mismatch in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/29995165
+['This study will aid surgeons in choosing the proper anteroposterior axis of the tibial component to reduce rotational mismatch and thus achieve good clinical knee outcomes.III.Anteroposterior axis; Computer simulation; Rotational mismatch; Tibial component; Total knee arthroplasty', "The rotational mismatch angle was measured between the tibial anteroposterior axis and the line perpendicular to the transepicondylar axis projected on the cutting surface (positive value: external rotation of the tibial anteroposterior axis).The average rotational mismatch angles (referring to the projected anatomical/surgical epicondylar axes) were -\u20092.7°\u2009±\u20095.8°/1.0°\u2009±\u20096.0° (Akagi's Line), -\u20094.2°\u2009±\u20097.7°/-\u20090.5°\u2009±\u20097.8°, 2.9°\u2009±\u20097.2°/6.6°\u2009±\u20097.2°, 9.8°\u2009±\u20097.0°/13.5°\u2009±\u20096.8° (Axis MED, Axis 1/6MED, Axis 1/3MED), -\u20095.1°\u2009±\u20097.9°/-\u20091.4°\u2009±\u20097.8° (Axis of Oval Shape), and 19.3\u2009±\u20099.5°/23.0°\u2009±\u20099.6°, -\u20092.0°\u2009±\u200911.3°/1.7°\u2009±\u200911.4° (Axis Anterior Crest, Axis Second Metatarsus), respectively.Akagi's Line provided the best accuracy and least variability in varus osteoarthritic knees."]
+
+"Total knee replacement modifies the preoperative tibial torsion angle-similar results between computer-assisted and standard technique."
+https://www.ncbi.nlm.nih.gov/pubmed/29955573
+['There were no differences in final tibial torsion between the knees operated upon with the standard instruments and those subjected to computer-assisted surgery (CAS; P=0.157).TKR surgery modifies preoperative tibial torsion.', 'The presence of preoperative deformities in the frontal plane did not modify the changes in the rotation of the tibial component.']
+
+"Measurement techniques to determine tibial rotation after total knee arthroplasty are less accurate than we think."
+https://www.ncbi.nlm.nih.gov/pubmed/29871786
+['Tibial rotation measured with the Berger technique was most reliable (ICC inter\u202f=\u202f0.91; ICC intra\u202f=\u202f0.96).', 'There were no strong correlations found between the different tibial rotation measures or between the clinical outcomes and the rotational outliers.']
+
+"In Vivo Tibial Fit and Rotational Analysis of a Customized, Patient-Specific TKA versus Off-the-Shelf TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/29801179
+['While 18% of OTS designs presented an implant overhang of 3\u2009mm or more, none of the CIM components did (p\u2009<\u20090.05).', 'We intraoperatively compared component fit in four tibial zones of a CIM to that of three different off-the-shelf (OTS) TKA designs in 44 knees.']
+
+"Reliability evaluation of inter-eminence line, Akagi and Dalury lines for intraoperative tibial rotation: An osteology-based study."
+https://www.ncbi.nlm.nih.gov/pubmed/29571819
+['When taking the medial angle from a medial-lateral reference line, the Akagi line showed a mean of 96.90° (±10.27), inter-eminence line 94.52° (±12.84), and Dalury line 88.06° (±11.75).', 'This large osteology study examined the reliability, reproducibility and correlation between previously described tibial tray rotation alignment lines (including Akagi and Dalury lines).']
+
+"A computer-assisted, tibia-first technique for improved femoral component rotation in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/29560400
+['This technique may prove to be useful for surgeons wishing to employ a tibia-first philosophy for TKA while maximizing the benefits associated with computer-assisted navigation.Alignment; Navigation; Rotation; Tibia first; Total knee arthroplasty', 'The use of navigation for total knee arthroplasty (TKA) improves limb alignment in the coronal and sagittal planes.']
+
+"Femoral Component External Rotation Affects Knee Biomechanics: A Computational Model of Posterior-stabilized TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/29529625
+['With 3° of femoral component external rotation relative to the posterior condylar axis, the femoral component was still externally rotated by up to 2.7° relative to the sTEA in these three neutrally aligned knees.', 'When the femoral component was externally rotated by 9° rather than 0° in knees one, two, and three, the maximum force carried by the MCL decreased a respective 55, 88, and 297 N; the medial contact forces decreased at most a respective 90, 190, and 570 N; external tibial rotation in early flexion increased by a respective 4.6°, 1.1°, and 3.3°; and varus angulation of the tibia relative to the femur in late flexion increased by 8.4°, 8.0°, and 7.9°, respectively.']
+
+"3D patient imaging and retrieval analysis help understand the clinical importance of rotation in knee replacements."
+https://www.ncbi.nlm.nih.gov/pubmed/29520668
+['These results showed the importance of optimizing component position to minimize polyethylene damage.', "There was a significant correlation between tibial slope and damage score on polyethylene tibial inserts (r\u2009=\u20090.2856; p\u2009=\u20090.0382) as well as a significant correlation between implants' position in the axial plane and damage score on polyethylene tibial inserts (r\u2009=\u20090.6537, p\u2009=\u20090.0240).This is the first study to use accurate measurements from pre-revision 3DCT to compare tibial and femoral orientation in all three planes with retrieval findings in total knee replacements."]
+
+"Combined Rotational Alignment Change after Total Knee Arthroplasty in Different Tibial Component Designs: Implications for Optimal Tibial Component Rotational Alignment."
+https://www.ncbi.nlm.nih.gov/pubmed/29482307
+['We measured the angles of four anatomical landmarks by using preoperative and postoperative computed tomography images.', 'The rotational alignment of the femoral and tibial components is closely related to the results after total knee arthroplasty (TKA).']
+
+"Tibial component coverage and rotational alignment accuracy after mobile-bearing total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/29428984
+['Tibial component coverage (TCC) and tibial rotational angle (TRA) have been studied simultaneously in simulations, but not in clinical studies after total knee arthroplasty (TKA).', 'The purposes of this study were (1) to evaluate TCC and rotational setting postoperatively in mobile-bearing TKA patients and (2) to compare the results with previously published simulation data.We prospectively examined 100 patients who underwent primary TKA using the LCS® Total Knee System (LCS) posterior cruciate ligament-substituting prosthesis.']
+
+"Distal Femoral Rotation Correlates With Proximal Tibial Joint Line Obliquity: A Consideration for Kinematic Total Knee Arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/29395720
+['We hypothesized that there is a correlation between the distal femoral rotation and proximal tibial joint line obliquity in nonarthritic knees.', 'Tibial joint line obliquity was measured as the angle between the proximal tibial plane and a line perpendicular to the axis of the tibia.There was a strong positive correlation between PCA-TEA and tibial joint line obliquity (r\xa0= 0.68, P < .001) as well as TCA-TEA and tibial joint line obliquity (r\xa0= 0.69, P < .001).']
+
+"Relationships between in vivo dynamic knee joint loading, static alignment and tibial subchondral bone microarchitecture in end-stage knee osteoarthritis."
+https://www.ncbi.nlm.nih.gov/pubmed/29382604
+['When controlling for walking speed, KAM and MAD, the ERM explained additional 11-30% of the variations in anteromedial BV/TV and medial-to-lateral BV/TV ratio (R2\xa0=\xa00.59, R2\xa0=\xa00.69, P\xa0<\xa00.01).This preliminary study suggests significant associations between tibial plateau STB microarchitecture and knee joint loading indices in end-stage knee OA patients.', 'To study, in end-stage knee osteoarthritis (OA) patients, relationships between indices of in\xa0vivo dynamic knee joint loads obtained pre-operatively using gait analysis, static knee alignment, and the subchondral trabecular bone (STB) microarchitecture of their excised tibial plateau quantified with 3D micro-CT.Twenty-five knee OA patients scheduled for total knee arthroplasty underwent pre-operative gait analysis.']
+
+"Do modern total knee replacements improve tibial coverage?"
+https://www.ncbi.nlm.nih.gov/pubmed/29372284
+['The surgeon has the option to improve tibial coverage by optimizing placement between the two anatomic rotational alignment landmarks, the medial 1/3 and the ML-axis.', 'The purpose of the present study is to compare newer designs of various symmetric and asymmetric tibial components and measure tibial bone coverage using the rotational safe zone defined by two commonly utilized anatomic rotational landmarks.Computed tomography scans (CT scans) of one hundred consecutive patients scheduled for total knee arthroplasty were obtained pre-operatively.']
+
+"Tibial internal rotation negatively affects clinical outcomes in total knee arthroplasty: a systematic review."
+https://www.ncbi.nlm.nih.gov/pubmed/29247357
+['The modified Coleman scoring methodology (mCMS) was used.', 'The mean mCMS score was 59.2 points indicating good methodological quality in the included studies.']
+
+"Experience Influences the Agreement and Reliability of Tibial Component Positioning in Total Knee Arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/29224992
+['Trainees were more consistent when utilizing the Box method (IRR 0.96, IOA 0.94) than the TT method (IRR 0.71, IOA 0.72).Surgeon experience influences the agreement and reliability of tibial component position.', 'The differences between tibial tray positions were assessed using computer-assisted optoelectronic measurements.']
+
+"Combined CT-based and image-free navigation systems in TKA reduces postoperative outliers of rotational alignment of the tibial component."
+https://www.ncbi.nlm.nih.gov/pubmed/29177541
+['The purpose of this study is to assess whether combined CT-based and image-free navigation systems replicate accurately the rotational alignment of tibial component that was preoperatively planned on CT, compared with the conventional method.We compared the number of outliers for rotational alignment of the tibial component using combined CT-based and image-free navigation systems (navigated group) with those of conventional method (conventional group).', 'Seventy-two TKAs were performed between May 2012 and December 2014.']
+
+"Effects of tibial baseplate shape on rotational alignment in total knee arthroplasty: three-dimensional surgical simulation using osteoarthritis knees."
+https://www.ncbi.nlm.nih.gov/pubmed/29075841
+['When aligned to axis 1/3MED, anatomically designed tibial baseplates will effectively lower the mismatch rates compared to a symmetrically designed tibial baseplate.', 'We evaluated the overhang rates as well as the most fitting AP axis which passes through the geometric center.Overhang rates when aligned to axis MED were 12-25% for the symmetrical-type group and 13-22% for the anatomical-type group.']
+
+"[Meta analysis of three-dimensional printing patient-specific instrumentation versus conventional instrumentation in total knee arthroplasty]."
+https://www.ncbi.nlm.nih.gov/pubmed/29050180
+['目的： 系统评价三维(3D)打印个性化导板与传统截骨工具在全膝关节置换术中的疗效。 方法： 以"patient-specific" 、"patient-matched" 、"custom" 、"instrumentation" 、"guide instrumentation" 、"cutting blocks" 、"total knee arthroplasty" 、"total knee replacement" 、"TKA" 、"TKR" 、"3D打印" 、"个性化" 、"截骨导板" 、"全膝关节置换"为关键词检索PubMed、Ovid、Embase、Cochrane library、CBM和万方数据库，检索2016年8月以前公开发表的全膝关节置换术中应用3D打印个性化导板与传统截骨工具的前瞻性随机对照研究，收集符合纳入排除标准的文献。采用Review Manager 5.3软件对术后下肢机械力线离群值、术后假体位置离群值、术后膝关节功能、手术时间、术后输血例数及并发症等进行Meta分析。 结果： 共纳入13篇高质量RCT文献，共1 090例患者，其中3D打印个性化导板组544例，传统截骨工具组549例。Meta分析结果显示，3D打印个性化导板与传统截骨工具在全膝关节置换术后下肢力线离群值(Z＝0.55，P＝0.58，95% CI：0.78～1.56)、术后股骨冠状面假体位置离群值(Z＝0.38，P＝0.71，95% CI：0.69～1.72)，胫骨冠状面假体位置离群值(Z＝1.95，P＝0.05，95% CI：1.00～3.38)、股骨旋转对位离群值(Z＝0.36，P＝0.72，95% CI：0.49～1.64)、术后膝关节功能(Z＝1.18，P＝0.24，95% CI：－0.66～2.63)，术后输血例数(Z＝0.74，P＝0.46，95% CI：－0.10～0.05)、术后并发症(Z＝0.18，P＝0.86，95% CI：－0.07～0.05)方面差异无统计学意义；手术时间(Z＝2.66，P＝0.01，95% CI：－15.97～－2.41)和胫骨侧位假体位置离群值(Z＝3.69，P＝0.00，95% CI：1.43～3.18)差异有统计学意义。 结论： 3D打印个性化导板在膝关节内外翻及挛缩程度不严重，关节外畸形不明显，无明显膝关节骨质缺损及过度肥胖患者的初次全膝关节置换中无明显优势，手术时不常规推荐使用。.Objective: To evaluate the effects of three-dimensional printing patient-specific instrumentation(PSI) versus conventional instrumentation(CI) in the total knee arthroplasty.', 'The use of PSI in the primary total knee arthroplasty are not recommend.Arthroplasty, replacement, knee; Conventional instrumentation; Individuality; Meta-analysis; Three-dimensional']
+
+"Tibial Base Plate for Total Knee Arthroplasty: Symmetric or Asymmetric?"
+https://www.ncbi.nlm.nih.gov/pubmed/28861194
+['Two surgeons were asked to place 20 symmetric (group 1) and 20 asymmetric (group 2) tibial base plates taking care to ensure the best coverage that they were able to determine.', 'There are 2 types of tibial base plates: symmetric and asymmetric.']
+
+"Can kinematic tibial templates assist the surgeon locating the flexion and extension plane of the knee?"
+https://www.ncbi.nlm.nih.gov/pubmed/28797876
+['We performed virtual feasibility and in-vivo validation studies to test whether the use of a kinematic tibial template (KTT) assists the surgeon in accurately locating the orientation of the F-E of the knee with low bias and high precision.With use of 166 3-dimensional bone models of normal knees, we designed seven KTTs that located the orientation of the F-E plane of the knee when best-fit within the cortical edge of the tibial resection.', 'The virtual feasibility study asked 11 evaluators with different levels of surgical experience to use software and select, orient, and best-fit the KTT within the tibial resection of each bone model.']
+
+"Revision of partial knee to total knee arthroplasty with use of patient-specific instruments results in acceptable femoral rotation."
+https://www.ncbi.nlm.nih.gov/pubmed/28785788
+['resection level and implant size) during surgery were recorded.The HKA axis was restored accurately in all patients with a mean post-operative HKA axis of 178.1° (1.4°).', 'We hypothesize that CT-based PSI for PKA-to-TKA revision surgery can restore biomechanical limb alignment and prosthetic component positioning in vivo as calculated pre-operatively, resulting in a limited percentages of outliers.An imaging analysis was performed using CT-based 3D measurement methods based on a pre- and post-revision CT scan.']
+
+"Asymmetric Tibial Component Improved the Coverage and Rotation of the Tibial Component in a Medial Pivot Total Knee Prosthesis."
+https://www.ncbi.nlm.nih.gov/pubmed/28701008
+['When the tibial component was placed parallel to the anteroposterior (AP) axis, the uncovered width in the posteromedial part using a symmetric design was larger than that using an asymmetric design (p\u2009<\u20090.01).', 'When the component was placed in malrotation (10 degrees internal to the AP axis), overhang in the posteromedial part was observed in 6% for a symmetric design and in 71% for an asymmetric design (p\u2009<\u20090.01).']
+
+"Computer assisted total knee arthroplasty: a real navigation to better results?"
+https://www.ncbi.nlm.nih.gov/pubmed/28657564
+['We have checked each patient at 6, 12 and 24 months of follow-up.', 'Mean follow-up time was 2,6 years.']
+
+"Anterior tibial curved cortex is a reliable landmark for tibial rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/28606122
+['This study aimed to compare five axes in normal and osteoarthritic (OA) knees to determine a reliable landmark for tibial rotational alignment in TKA.One hundred twenty patients with OA knees and 40 with normal knees were included.', 'The five axes were as follows: a line from the center of the posterior cruciate ligament (PCL) to the medial border of the patellar tendon (PCL-PT), medial border of the tibial tuberosity (PCL-TT1), medial one-third of the tibial tuberosity (PCL-TT2), and apex of the tibial tuberosity (PCL-TT3), as well as the anteroposterior axis of the tibial prosthesis along the anterior tibial curved cortex (ATCC).For all five axes tested, the mean angles were smaller in OA knees than in normal knees.']
+
+"Variability in static alignment and kinematics for kinematically aligned TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/28571921
+['With kinematic alignment, tibio-femoral motion displayed greater tibial external rotation and lateral femoral flexion facet centre (FFC) translation with knee flexion than mechanical aligned TKA.', 'Total knee arthroplasty (TKA) significantly improves pain and restores a considerable degree of function.']
+
+"Medial parapatellar approach leads to internal rotation of tibial component in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/28560546
+['The tibial component was graded as internally rotated (<3° of external rotation (ER)), neutral rotation (equal or between 3° and 6° of ER) and externally rotated (>6° ER).', 'The purpose of this study was to investigate if the type of approach [medial parapatellar approach (MPA) versus lateral parapatellar approach with tibial tubercle osteotomy (LPA)] influences rotation of femoral and/or tibial component and leg axis in total knee arthroplasty (TKA).']
+
+"Do small changes in rotation affect measurements of lower extremity limb alignment?"
+https://www.ncbi.nlm.nih.gov/pubmed/28532505
+['Three-dimensional models were created using a rendering software program and placed on a virtual plane.', 'Thirty scans were randomly selected, and those models were rotated in 3° intervals around the longitudinal axis and additional images were obtained.In the neutral position, the mechanical lateral distal femoral articular angle (mLDFA) was 85.6\u2009±\u20092.3°, medial proximal tibial angle (MPTA) was 86.1\u2009±\u20092.8°, and mechanical tibiofemoral angle (mTFA) was -0.7\u2009±\u20093.1°.']
+
+"A comparison of short term radiological alignment outcomes of the patient specific and standard instrumentation for primary total knee arthroplasty: A systematic review and meta-analysis."
+https://www.ncbi.nlm.nih.gov/pubmed/28502570
+['We performed a systematic review and a meta-analysis including all the randomised controlled trials (RCT) using PS and standard (ST) total knee arthroplasty to date.A total of 538\xa0PS TKA and 549 ST TKA were included in the study.', 'We found that there was no significant benefit from using PS instrumentation in primary knee arthroplasty to aid in the positioning of either the tibial or femoral components.']
+
+"The role of cone beam CT in the study of symptomatic total knee arthroplasty (TKA): a 20 cases report."
+https://www.ncbi.nlm.nih.gov/pubmed/28467105
+['The patellar tilt angle and rotational alignment of femoral and tibial components were measured in relation to the femoral flange, transepicondylar axis and tibial tuberosity, respectively.', 'The aims of this study were to evaluate the efficacy of cone beam CT (CBCT) in the study of the patellar tilt angle and rotational alignment of the femoral/tibial component after total knee arthroplasty and to estimate how metallic artefacts impaired detection of periprosthetic bone structures and bordering tendon-muscle structures.20 symptomatic total knee arthroplasties were examined using CBCT by three independent observers.']
+
+"What Factors Are Associated With Femoral Component Internal Rotation in TKA Using the Gap Balancing Technique?"
+https://www.ncbi.nlm.nih.gov/pubmed/28337656
+['With the numbers available, we found no difference between the mean theoretical postoperative TEA-PCA and the postoperative TEA-PCA measured using postoperative CT (4.8° ± 2.7º versus 5.0° ± 2.3º; mean difference, 0.2° ± 1.5º; p = 0.160).Extent of medial release was the only factor we identified that was associated with internal rotation of the femoral component in gap-balancing TKA.', 'When using the gap-balancing technique for TKA, excessive medial release and varus proximal tibial resection can be associated with internal rotation of the femoral component.']
+
+"Simulation of total knee arthroplasty in 5° or 7° valgus: A study of gap imbalances and changes in limb and knee alignments from native."
+https://www.ncbi.nlm.nih.gov/pubmed/27886399
+['© 2016 Orthopaedic Research Society.', 'Unbalanced gaps within a compartment between 0° and 90° flexion represent a potential instability which is difficult to surgically correct.']
+
+"Location of the ankle center for total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/27825939
+['With these axes, we regarded the offset distance from the intermalleolar midpoint as the position of the ankle center and investigated any angular osteotomy errors on the proximal tibia when the ankle center was assumed to the intermalleolar midpoint.The mean offset distances relative to the tibial AP axis were 1.8±0.9mm medial and 4.2±1.2mm anterior, and the distances relative to the TMA were 3.0±0.9 and 3.6±1.1mm in the coronal and sagittal planes, respectively.', 'Therefore, the intermalleolar midpoint in the coronal plane is a reliable landmark for the ankle center during TKA.']
+
+"Accuracy of MRI-based vs. CT-based patient-specific instrumentation in total knee arthroplasty: A meta-analysis."
+https://www.ncbi.nlm.nih.gov/pubmed/27823847
+['Tibial rotation was not analysed in the literature.MRI-based patient-specific cutting guides produced a lower proportion of outliers in the overall coronal alignment of the limb compared to CT, with no significant difference between the two in terms of femoral or tibial component placement.', 'Therefore, we aimed to compare the accuracy of patient-specific cutting guides produced from MRI or CT imaging methods in TKA.Electronic databases were systematically searched using relevant keywords and MeSH terms for original-data English-language publications comparing the accuracy of CT and MRI-based PSI cutting guides in TKA.']
+
+"The Anteroposterior Axis of the Proximal Tibia Can Change After Tibial Resection in Total Knee Arthroplasty: Computer Simulation Using Asian Osteoarthritis Knees."
+https://www.ncbi.nlm.nih.gov/pubmed/27776906
+['We evaluated the effect of cutting surface on the anteroposterior (AP) axis of the proximal tibia using a 3-dimensional (3D) bone model to ensure proper tibial rotational alignment in total knee arthroplasty.3D bone models were reconstructed from the preoperative computed tomography data of 93 Japanese osteoarthritis knees with varus deformity.', 'The percentages of cases with differences of more than 3° or 5° were 66.7% and 34.4% at slope 0°, 53.8% and 24.7% at slope 3°, and 38.3% and 11.8% at slope 7°, respectively.The AP axis of the proximal tibia may be rotated internally after resection of the proximal tibia in total knee arthroplasty.']
+
+"Normal Femorotibial Rotational Alignment and Implications for Total Knee Arthroplasty: an MRI Analysis."
+https://www.ncbi.nlm.nih.gov/pubmed/27703414
+["To date, no large MRI study assessing femorotibial rotational alignment in nonarthritic knees has been undertaken.Is Insall's tibial axis a reliable rotational landmark against common femoral rotational axes in the nonarthritic patient population?We reviewed 544 knee MRI scans performed for suspected soft tissue pathology and identified Insall's tibial rotational axis as well as the femoral clinical trans-epicondylar axis (TEAc), femoral surgical trans-epicondylar axis (TEAs), posterior condylar articular axis (PCA), and a modified Eckhoff's cylindrical axis.", "The perpendiculars of these axes were superimposed on Insall's tibial axis, and the angular differences were measured.Insall's axis was internally rotated to the TEAc by 1.4°, externally rotated to Eckhoff's cylindrical axis by 1.8°, externally rotated to the TEAs by 2.7°, and externally rotated to the PCA by 3.5°."]
+
+"Evaluation of the rotational alignment of the tibial component in total knee arthroplasty: position prioritizing maximum coverage."
+https://www.ncbi.nlm.nih.gov/pubmed/27614951
+['We investigated tibial component position in TKA, prioritizing maximum coverage of resected bone surface, and evaluated the correlation with the tibial anteroposterior (AP) axis.We analyzed preoperative computed tomography images for primary TKA in 106 cases and 157 knees, using three-dimensional planning software.', 'Tibial component position prioritizing maximum coverage of resected bone surface was simulated, and results were compared with the AP axis.']
+
+"Alignment and component position after patient-matched instrumentation versus conventional total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/27574257
+['Two femoral components were upsized to the next size, and 2 tibial components were upsized and 2 downsized to the next size.PMI was as accurate as conventional instrumentation in TKA.', 'To compare patient-matched instrumentation (PMI) with conventional total knee arthroplasty (TKA) in terms of limb alignment and component position.Nine men and 36 women (mean age, 69.5 years) who underwent PMI TKA were compared with 20 men and 25 women (mean age, 69.3 years) who underwent conventional TKA by the same team of surgeons with the same prosthesis and protocols in terms of limb alignment and component position using the Perth protocol computed tomography, as well as bone resection measurements, operating time, and the number of trays used.The PMI and conventional TKA groups were comparable in terms of age, body mass index, tourniquet time, operating time, and the number of trays used.']
+
+"Partially loaded plain radiographic measurement to evaluate rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/27447464
+['The purpose of the present study was to portray a reliable, novel plain radiographic method that likewise enables the evaluation of rotational positioning of prosthetic components in TKA.', 'The evaluation of the femoro-tibal behaviour instead shows a high variability and so far does not allow valid explanatory conclusions.Femoral roll back; Knee arthroplasty; Knee kinematics; Radiographic measurement; Rotational alignment']
+
+"Femoral Component Rotation in Total Knee Arthroplasty: A Comparison Between Transepicondylar Axis and Posterior Condylar Line Referencing."
+https://www.ncbi.nlm.nih.gov/pubmed/27374639
+['When knees with preoperative varus and neutral alignment were evaluated, the median measured rotational deviation of the femoral component was significantly higher in the fixed PCL group than in the TEA group (-3.4 ± 3.3° and\xa0-0.61 ± 1.3°, respectively) (P\xa0= .04).', 'The hip-knee-ankle angle and the tibial plateau-tibial shaft angle (TPTSA) were measured on full-length x-rays, and the rotation of the femoral component was measured as compared to the TEA on magnetic resonance imaging (negative values indicate internal rotation).The median measured rotational deviation of the femoral component from the TEA was significantly higher in the PCA group than in the TEA group (-3.8 ± 2.9° and\xa0-1.4 ± 1.9°, respectively) (P\xa0= .02).']
+
+"Patient-specific instrumentation does not improve radiographic alignment or clinical outcomes after total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/27249110
+['Weighted mean differences and risk ratios were determined for radiographic accuracy, operation time, hospital stay, blood loss, number of surgical trays required, and patient-reported outcome measures.', 'The risk ratio of a coronal plane outlier (> 3° deviation of chosen target) for the tibial component was statistically significantly increased in the PSI group (RR =1.64).']
+
+"Changes in the rotational axes of the tibiofemoral joint caused by resection of the anterior cruciate ligament."
+https://www.ncbi.nlm.nih.gov/pubmed/27219459
+['© 2016 Orthopaedic Research Society.', 'The anterior cruciate ligament (ACL) is typically resected at the time of TKA, which might change the position, and orientation of these axes from that of the native knee.']
+
+"Tibial Tubercle in Valgus Osteoarthritic Knees Is More Laterally Positioned Than in Varus Knees."
+https://www.ncbi.nlm.nih.gov/pubmed/27155995
+['Twenty-four of 36 valgus knees (67%) had abnormal TT-PCL (>24 mm).', 'The tibial tubercle (TT) is the most reliable landmark of the tibial component rotation in total knee arthroplasty.']
+
+"[Mathematical analysis of the influences of femoral and tibial bone cuts on the dynamic alignment in total knee arthroplasty]."
+https://www.ncbi.nlm.nih.gov/pubmed/27029196
+['With two of the three major bone cuts standard, the track of the tibial movement was established when the other one bone cut deviated from the ideal section of angle A.', 'To investigate the influences of the distal femoral cut, the anterior and posterior femoral cuts, the proximal tibial cut on the dynamic alignment of the lower extremity in total knee arthroplasty.Based on the three-dimensional geometric model, imitating the flexion movement of the knee without axial rotation after total knee arthroplasty, the influence of each of the three bone cuts on the dynamic alignment was analyzed with the assumption of standard bone cuts of the other two and equality of the medial and lateral soft tissue balancing.']
+
+"[Imageology and significances of rotational axes of distal femur on Chinese adults with total knee arthroplasty]."
+https://www.ncbi.nlm.nih.gov/pubmed/27019896
+['To explore clinical significance of rotational axis of distal femur on Chinese adults in total knee arthroplasty (TKA).There were 86 Chinese adults (106 normal knees) including 47 males (53 knees) and 39 females (53 knees), 54 knees were on left and 52 on right.', 'These values were divided into different groups according to gender and side, the values of CTA, PCA, A-PA, angle PT (varus of tibia plateau), constant 3, ATA, APA and constant 90° were compared by statistically.']
+
+"The medial border of the tibial tuberosity as an auxiliary tool for tibial component rotational alignment during total knee arthroplasty (TKA)."
+https://www.ncbi.nlm.nih.gov/pubmed/27017213
+['was found between women and men in both normal [median -20.7° (range 16°-25°) vs. 19.9° (range 15°-24°)] and post-TKA tibiae [median 21.4° (range 19°-24°) vs. 20° (range 16°-25°)].This study found that in 90\xa0% of the patients, the medial border of the tibial tuberosity is internally rotated 17°-24° in relation to the line connecting the middle of the tuberosity to the tibial geometric centre.', 'in normal and post-TKA tibiae [median 20.4° (range 15°-24°) vs. 20.7° (range 16°-25°), respectively].']
+
+"Lower Limb Anatomy and Alignment Affect Natural Tibiofemoral Knee Kinematics: A Cadaveric Investigation."
+https://www.ncbi.nlm.nih.gov/pubmed/27017201
+['Tibial abduction and internal rotation showed significant interindividual variability, measuring 3.9° (range\xa0-0.8° to 9.7°) and 4.9° (range\xa0-3.5° to 14.8°) during flexion.', 'These results may be of interest in component alignment in total knee arthroplasty, correction of deformities, and malalignment after fracture healing of the lower extremity.']
+
+"[Total knee arthroplasty with the use of patient specific instruments. The VISIONAIRE system]."
+https://www.ncbi.nlm.nih.gov/pubmed/26952362
+['Patient-specific instrumentation (PSI) was introduced in an attempt to reduce outliers in the positioning of components and in the alignment of the leg axis in comparison with conventional techniques.A review of our own investigations and studies by other groups, it has been shown that PSI could reduce the amount of outliers in the positioning of tibial and femoral components and in whole-leg alignment.', 'In this way, PSI differs from other procedures for improving component placement, such as navigation, for which no advantage could be demonstrated, especially with regard to rotation in comparison with conventional techniques.']
+
+"Tibial component rotation in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/26883741
+['This difference was statistically significant (p = 0.028).', 'This difference is correlated with high maximum flexion and mechanical axis deviations.']
+
+"What are the bias, imprecision, and limits of agreement for finding the flexion-extension plane of the knee with five tibial reference lines?"
+https://www.ncbi.nlm.nih.gov/pubmed/26875046
+['We computed the bias (mean), imprecision (±standard deviation), and limits of agreement (mean±2 standard deviations) of the angle between five anatomically defined tibial reference lines used in mechanically aligned (MA) TKA and the F-E tibial reference line (+external).The following are the bias, imprecision, and limits of agreement of the angle between the F-E tibial reference line and 1) the tibial reference lines connecting the medial border (-2°±6°, -14° to 10°), medial 1/3 (6°±6°, -6° to 18°), and the most anterior point of the tibial tubercle (9°±4°, -1° to 17°) with the center of the posterior cruciate ligament, and 2) the tibial reference lines perpendicular to the posterior condylar axis of the tibia (-3°±4°, -11° to 5°), and a line connecting the centers of the tibial condyles (1°±4°, -7° to 9°).Based on these in vitro findings, it might be prudent to reconsider setting the I-E rotation of the tibial component to tibial reference lines that have bias, imprecision, and limits of agreement that fall outside the -7° to 10° range associated with high function after KA TKA.Copyright © 2016 Elsevier B.V. All rights reserved.Internal and external rotation; Kinematic alignment; Knee arthroplasty; Malrotation of tibial component', 'Kinematically aligned (KA) TKA uses a functionally defined flexion-extension (F-E) tibial reference line, which is parallel to the F-E plane of the extended knee, to set I-E rotation of the tibial component.Sixty-two, three-dimensional bone models of normal knees were analyzed.']
+
+"Rotational alignment of the tibial component in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/26855939
+['Unfortunately, an accurate landmark has not yet been established although many computer models using CT reconstructions and standard radiologic studies have been performed.', 'The authors also analyzed the correlation between classic and newer tibial baseplate designs and different tibial rotational landmarks.Total knee arthroplasty (TKA); alignment; arthritis; knee']
+
+"Inaccurate rotational component position in image-free navigated unicompartmental knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/29264256
+['We recorded the coronal, sagittal, and rotational bone-resection angles towards the mechanical axis in the distal femur and proximal tibia using image-free navigation intraoperatively.', 'We also observed sagittal outliers for the femoral component in five of 23 patients, and for the tibial component in three of the 23 patients.']
+
+"Favourable rotational alignment outcomes in PSI knee arthroplasty: A Level 1 systematic review and meta-analysis."
+https://www.ncbi.nlm.nih.gov/pubmed/26782300
+['Tibial rotation was reported with reference to the anterior tibial tuberosity and a "best fit" with the anterior tibial cortex.Six randomised studies met the inclusion criteria reporting on a total of 444 knees.', 'The primary outcome of interest was deviation from a neutral femoral and tibial axial alignment of patient-specific instrumentation (PSI) vs conventional instrumentation.']
+
+"Computer-assisted total knee arthroplasty using mini midvastus or medial parapatellar approach technique: A prospective, randomized, international multicentre trial."
+https://www.ncbi.nlm.nih.gov/pubmed/26762175
+['There was no significant difference of component alignment between the two surgical groups with respect to flexion/extension (p\u2009=\u20090.269), varus/valgus (p\u2009=\u20090.653) or rotational alignment (p\u2009=\u20090.485) of the femur component and varus valgus alignment (p\u2009=\u20090.778) or posterior slope (p\u2009=\u20090.164) of the tibial component.There was no advantage of the MIS approach compared to a conventional approach CAS-TKA in any of the primary outcome measurements assessed, however the MIS approach was associated with longer surgical time and greater blood loss.', 'There was no significant difference in any of the other primary outcome parameters.']
+
+"[Research on the reliability of the Akagi line as a reference axis to guide for rotational alignment of the proximal tibial component in total knee arthroplasty]."
+https://www.ncbi.nlm.nih.gov/pubmed/26727777
+['To study on the reliability of the Akagi line as a reference axis to guide for rotational alignment of the proximal tibial component in total knee arthroplasty (TKA) the rotational alignment reference bony landmarks of the proximal tibial component on magnetic resonance image (MRI) were measured.From January 2010 to December 2013, 80 normal knees of Chinese volunteers including 35 males and 45 females with an average age of (35.4±6.1) years were reviewed.', 'There was a significant difference between the AK and AP (t=-11.68, P<0.05).The reliability of the Akagi line as a reference axis to guide for rotational alignment of the proximal tibial component in TKA is good.']
+
+"Relationship between Tibial Baseplate Design and Rotational Alignment Landmarks in Primary Total Knee Arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/26491564
+['Three observers independently measured the rotational alignment of the tibial component in relation to the sTEA.', 'This study evaluated the influence of modern tibial baseplate designs when using the anterior tibial cortex as a primary rotational landmark for the tibial baseplate in TKA.']
+
+"Accuracy of Proximal Tibial Bone Cut Using Anterior Border of Tibia as Bony Landmark in Total Knee Arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/26233701
+['The purpose of our study was to evaluate the accuracy of the tibial bone cut in total knee arthroplasty using the anterior tibial border as a guide compared to using bony and soft tissue landmarks of the ankle joint.', 'The extramedullary alignment guide was set parallel to a line connecting the proximal and distal one-thirds of the anterior border of the tibia while the rotational direction of the distal end of the guide was adjusted to the anteroposterior axis of the proximal tibia.']
+
+"Using the anatomical tibial axis for total knee arthroplasty alignment may lead to an internal rotation error."
+https://www.ncbi.nlm.nih.gov/pubmed/26156716
+['suggest aligning the tibial component in 10 degrees of external rotation to the latter.', 'We hypothesise that using the anatomical tibial axis (ATA) to align tibial component rotation on the resected tibial surface may lead to an internal rotation error due to relative anterior shift of the lateral articular surface centre compared to the medial one.']
+
+"Rotational alignment of tibial components in mobile-bearing TKA: posterior substituted vs. PCL retaining."
+https://www.ncbi.nlm.nih.gov/pubmed/26141536
+['There were no significant differences between the two designs.The MBTT might be regarded as a reliable landmark for obtaining an acceptable tibial rotational setting in mobile-bearing TKA despite PCL retention.', 'The tibial component rotation was intraoperatively setting between the parallel to the axis of the most medial aspect of the tibial tubercle as the anterior anatomic landmark and the center of the tibial component as the posterior landmark at the maximum coverage with the osteotomized tibial plateau with its adjustment after several knee flexion-extension exercises.']
+
+"[Intraoperative Evaluation of Total Knee Arthroplasty: Anatomic and Kinematic Assessment with Trial Components]."
+https://www.ncbi.nlm.nih.gov/pubmed/26114563
+['Upon the trials insertion, bone coverage and the component overhang should be evaluated.', 'Trial components allow an easy assessment of the anatomic fit of the final implants.']
+
+"Patient-specific positioning guides for total knee arthroplasty: no significant difference between final component alignment and pre-operative digital plan except for tibial rotation."
+https://www.ncbi.nlm.nih.gov/pubmed/26055253
+['To assess whether there is a significant difference between the alignment of the individual femoral and tibial components (in the frontal, sagittal and horizontal planes) as calculated pre-operatively (digital plan) and the actually achieved alignment in vivo obtained with the use of patient-specific positioning guides (PSPGs) for TKA.', 'The a priori specified null hypothesis for equivalence testing: the difference from planning is >3 or <-3 was rejected for all comparisons except for the tibial transverse plane.PSPG was able to adequately reproduce the pre-op plan in all planes, except for the tibial rotation in the transverse plane.']
+
+"Measuring tibial component rotation of TKA in MRI: What is reproducible?"
+https://www.ncbi.nlm.nih.gov/pubmed/26043879
+['We suggest that all three reference lines will be used for assessment of a painful knee following TKA to allow for informed decision making and for choice of best treatment options for the patient.Copyright © 2015 Elsevier B.V. All rights reserved.MRI; TKA; Tibial rotation; Total knee arthroplasty', 'This study compares the reproducibility of three different measurement techniques.A magnetic resonance imaging (MRI) analysis of 55 patients following TKA was conducted.']
+
+"Evaluation of alignment in total knee arthroplasty: a prospective study."
+https://www.ncbi.nlm.nih.gov/pubmed/26026693
+['The precision with which the implants are placed directly affects patient outcome as implant position and alignment influence the stability, durability and patellar tracking.', 'The average follow-up period was 36 months.Preoperatively, all the patients had moderate to severe pain.']
+
+"Knee alignment in the transverse plane during weight-bearing activity and its implication for the tibial rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/25936578
+['This study aimed to evaluate the dynamic tibiofemoral alignment in the transverse plane during a weight-bearing activity.Knee kinematics of weight-bearing flexion from 0° to 120° was obtained in 16 healthy subjects utilizing biplanar radiography and 3D-2D registration techniques.', 'This region may be helpful for the rotational alignment of the tibial components in total knee arthroplasty.Copyright © 2015 Elsevier Ltd. All rights reserved.Alignment; Anteroposterior axis; Arthroplasty; Kinematics; Knee; Transverse plane']
+
+"Distal femoral condyle is more internally rotated to the patellar tendon at 90° of flexion in normal knees."
+https://www.ncbi.nlm.nih.gov/pubmed/25906977
+['When the symmetric femoral component is aligned perpendicular to the femoral mechanical axis, the patellar tendon would be possibly more twisted than the condition in normal knees, and the deviation of the PF contact force on the patellar component might be caused.', 'This difference in the design of distal femoral condyle may affect the PF joint congruity in knee flexion.']
+
+"Accuracy of patient-specific instrumentation compared with conventional instrumentation in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/25901624
+['The results of the meta-analysis demonstrated that there were no statistical differences in outliers of the mechanical axis (risk ratio [RR], 0.84; 95% confidence interval [CI], 0.61-1.11), the femoral component in the coronal (RR, 0.56; 95% CI, 0.32-1.05) and sagittal (RR, 0.83; 95% CI, 0.60-1.14) plane, the tibial component in the coronal (RR, 0.84; 95% CI, 0.52-1.35) and sagittal (RR, 1.04; 95% CI, 0.69-1.55) plane, and the femoral component rotation (RR, 1.02; 95% CI, 0.57, 1.83) between the 2 groups.', "The authors' meta-analysis indicated that the accuracy of PSI was not superior to conventional instruments for patients undergoing TKA."]
+
+"Improved tibial component rotation in TKA using patient-specific instrumentation."
+https://www.ncbi.nlm.nih.gov/pubmed/25824873
+['Using the tibial epicondyles as reference, there were seven components in excessive external rotation (21.4 %) and one component being in relative internal rotation (4.4°) in the conventional group; while there were two components in excessive external rotation in the PSI group (6.7 %).', 'Using the dorsal tangent as reference, there were eight components in excessive external rotation (28.6 %) and one component being in relative internal rotation (5.4°) in the conventional group, while there were two components in excessive external rotation in the PSI group (6.7 %).']
+
+"No demonstrable benefit for coronal alignment outcomes in PSI knee arthroplasty: A systematic review and meta-analysis."
+https://www.ncbi.nlm.nih.gov/pubmed/25802069
+['Twenty-three studies reported alignment outcomes in the coronal plane, 11 in the sagittal plane.', 'The proportion of three degrees of outliers showed an overall mean of 18.6%.']
+
+"Rotational alignment of the tibial component affects the kinematic rotation of a weight-bearing knee after total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/25800285
+['The purpose of this study is to elucidate how the rotational malalignment of prosthesis after total knee arthroplasty affects the rotational kinematics in a weight-bearing condition.In this study of 18 knees replaced with the posterior stabilizing fixed-bearing system, which has a relatively low-restricting design, rotational angles between the femoral and tibial components and between the femur and tibia during stair climbing were evaluated in vivo in three dimensions using radiologically based image-matching techniques.', 'The knee in which the tibial component was placed close to the AP axis of the tibia did not show any rotational mismatch between either components or bones.Rotational alignment of the tibial component affects the kinematic rotation of the replaced knee during a weight-bearing condition even though using a low-restricting designed surface, and the AP axis can be a reliable reference in determining rotational alignment for the tibial component.Copyright © 2015 Elsevier B.V. All rights reserved.Kinematics; Rotational alignment; Rotational mismatch; Stair climbing; Total knee arthroplasty']
+
+"Patient-specific instrumentation does not improve accuracy in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/25760504
+['Two reviewers independently assessed methodological quality according to the Cochrane Handbook.', 'There were no statistical differences with respect to the outliers of mechanical axis, coronal femoral component, sagittal femoral component, femoral component rotation, operative time, blood loss, and length of hospital stay between PSI and CLI groups.']
+
+"Bone cement solidifiliation influence the limb alignment and gap balance during TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/25688349
+['To estimate the influence of bone cement, a retrospective study was conducted.A total of 36 subjects were studied.', 'Thickness imbalance of bone cement leads to the deviation of mechanical alignment.']
+
+"How to minimize rotational conflict between femoral & tibial component in total knee arthroplasty: the use of femoro-tibial axial synchronizer (Linker)."
+https://www.ncbi.nlm.nih.gov/pubmed/25683995
+['With the use of postoperative computed tomography scans, it was investigated how much the rotational angle of femoral and tibial components matched.The tibial component was internally rotated for the femoral component at an angle of 0.8°.', 'The purpose of this study was to investigate the correlation between rotational axes of femur and tibia with the use of Linker.This study was carried out from August 2009 to February 2010 on 54 patients (106 knees), who were diagnosed with simultaneous bilateral total knee arthroplasty.']
+
+"[Significance of biomechanical criteria in proper treatment planning in knee osteoarthritis]."
+https://www.ncbi.nlm.nih.gov/pubmed/29522302
+['This is\npartly because doctors of different disciplines: general practitioners,\northopaedic surgeons, rheumatologists, physiotherapists,\nare involved in the treatment of this disease.', 'The aim of the study was to prove that the correct diagnosis,\nincluding biomechanical characteristics of the affected limb,\nchoice of correct treatment, and observance of indications, can\nshorten treatment, make it more efficient and less expensive.We analyzed of 103 patients qualified for total knee arthroplasty between 2006 and 2011.']
+
+"Intraoperative navigation of patient-specific instrumentation does not predict final implant position."
+https://www.ncbi.nlm.nih.gov/pubmed/25486944
+['We retrospectively reviewed 60 TKAs performed with PSI and imageless navigation.', 'These values were compared to postoperative coronal alignment based on long-leg radiographs, as well as rotation and tibial slope based on CT scans.']
+
+"Is the surgical epicondylar axis the center of rotation in the osteoarthritic knee?"
+https://www.ncbi.nlm.nih.gov/pubmed/25466167
+['We investigated the relationship between the SEA and the distal femur and whether the SEA can be used as the rotational axis of the knee.', 'The study has important implications for the design and positioning of femoral components in total knee arthroplasty.Copyright © 2014 Elsevier Inc. All rights reserved.computed tomography (CT); cylindrical axis; flexion–extension axis (FEA); gender differences; surgical epicondylar axis (SEA); total knee arthroplasty (TKA)']
+
+"Comparison of planned and achieved implant position in total knee arthroplasty with patient-specific positioning guides."
+https://www.ncbi.nlm.nih.gov/pubmed/25386738
+['We investigated the degree of correlation between preoperative planning and the alignment achieved postoperatively with the PSPG technique.TKAs performed with the PSPG technique between 2009 and 2011 were included.', 'The tibial component was on average 0.4 (SD 2.5) degrees in varus and 3.7 (SD 2.3) degrees in flexion.']
+
+"The anteroposterior axis of the tibia in Korean patients undergoing total knee replacement."
+https://www.ncbi.nlm.nih.gov/pubmed/25371461
+['This was very close to the defined tibial axis, and remained so regardless of lower limb alignment and the degree of tibial bowing.', 'Therefore, AP axis defined as described, is a reliable anatomical landmark for rotational alignment of tibial components.©2014 The British Editorial Society of Bone & Joint Surgery.CT; Rotational alignment; Tibial component; Total knee arthroplasty; lower limb alignment; tibial bowing']
+
+"Differences in component and limb alignment between computer-assisted and conventional surgery total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/25331655
+['Twenty-eight TKAs implanted using a CT-free navigation system, and the remaining 37 TKAs implanted using the conventional technique.', 'The long-term follow-up will be needed to clarify the eventual benefits.Retrospective comparative study, Level III.']
+
+"Radiographic outcome of limb-based versus knee-based patient specific guides in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/25218970
+['The aim of this study was to undertake a comparative radiographic study of two commonly used PSG and determine whether the radiographic technique used to construct the PSG had a significant effect on overall alignment.This prospective cohort study examined the accuracy of limb-based (n=112) versus knee-based (n=105) MR PSG in restoring the mechanical axis in three planes according to post-operative Perth CT scan protocol.Limb-based MR and knee-based MR PSG systems both restored overall hip-knee-ankle angle (HKAA), femoral coronal alignment, tibial coronal alignment, femoral sagittal alignment, tibial sagittal alignment and femoral rotation alignment to within 3° of a neutral mechanical axis with similar precision (91.1% vs. 86.7% p=0.30, 97.3% vs. 96.2% p=0.63, 97.3% vs. 97.1% p=0.94, 94.6% vs. 89.4% p=0.16, 90.2% vs. 81.0% p=0.05, 91.1% vs. 86.7% p=0.30, respectively).', "Patient specific guides (PSG's) were developed to improve overall component alignment in total knee arthroplasty (TKA)."]
+
+"Measured resection versus gap balancing technique for femoral rotational alignment: a prospective study."
+https://www.ncbi.nlm.nih.gov/pubmed/25163946
+['To compare the measured resection technique and the gap balancing technique for correction of the femoral rotational alignment.57 women and 6 men (mean age, 70 years) with end-stage osteoarthritis and <15º malalignment and <10º flexion contracture of the knee underwent primary total knee arthroplasty through the medial approach using the measured resection technique (n=34) or the gap balancing technique (n=29).', 'Femoral rotational alignment was evaluated before and 7 days after surgery using computed tomography by referencing the 2 posterior condyles to the transepicondylar axis.The 2 groups did not differ significantly in terms of correction of the femoral rotational alignment (3.4º ± 1.4º vs. 3.5º ± 3.1º, p=0.817).The measured resection and the gap balancing techniques achieved comparable correction of femoral rotational alignment.arthroplasty, replacement, knee; knee prosthesis']
+
+"Computer-assisted surgery improves rotational positioning of the femoral component but not the tibial component in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/25155048
+['Tibial rotation changed by 5.28° for the entire patient population, but no differences were found when comparing CAS and standard instrumentation.CAS improves frontal alignment in TKA, especially in the presence of preoperative deformities.', 'The series comprises 95 cases.']
+
+"Relationship of the posterior femoral axis of the "kinematically aligned" total knee arthroplasty to the posterior condylar, transepicondylar, and anteroposterior femoral axes."
+https://www.ncbi.nlm.nih.gov/pubmed/25112211
+['The transepicondylar axis (TEA), posterior condylar axis (PCA), antero-posterior axis (APA) of the trochlear groove, and posterior femoral axis of the kinematically aligned TKA (KAA) were templated on axial MRI images by two independent observers.', 'The relationships between the KAA, TEA, APA, and PCA were determined, with a negative value indicating relative internal rotation of the axis.On average, the KAA was 0.5° externally rotated relative to the PCA (minimum of -3.6°, maximum of 5.8°), -4.0° internally rotated relative to the TEA (minimum of -10.5°, maximum of 2.3°), and -96.4° internally rotated relative to the APA (minimum of -104.5°, maximum of -88.5°).']
+
+"Tibial rotational alignment was significantly improved by use of a CT-navigated control device in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/25070900
+['This study compared the accuracy of three methods to set tibial component rotational alignment: (1) conventional method, the anteroposterior (AP) axis was determined by the surgeon using anatomical landmarks; (2) partial-navigation method, the tibia was prepared according to the AP axis using a CT-based navigation system and the component was manually positioned; (3) full-navigation method, the tibial component was positioned and fixed with cement under the control of navigation using a newly developed instrument.', 'The tibial component can become malaligned during cement fixation, even after proper bone preparation.Copyright © 2014 Elsevier Inc. All rights reserved.CT-based navigation system; developed instrument; rotational alignment; tibial component; total knee arthroplasty']
+
+"Small improvements in mechanical axis alignment achieved with MRI versus CT-based patient-specific instruments in TKA: a randomized clinical trial."
+https://www.ncbi.nlm.nih.gov/pubmed/25024031
+['The three approaches also were compared with respect to validated outcomes scores and duration of surgery.A randomized clinical trial was conducted in which 90 patients were enrolled and divided into three groups: CT-based, MRI-based patient-specific instrumentation, and conventional instrumentation.', 'The groups were not different regarding age, male/female sex distribution, and BMI.']
+
+"Tibial component alignment and risk of loosening in unicompartmental knee arthroplasty: a radiographic and radiostereometric study."
+https://www.ncbi.nlm.nih.gov/pubmed/24972998
+['Varus/valgus and posterior slope of the tibial component and tibial-femoral axes were correlated with radiostereometric micro-motion.', 'Unicompartmental knee arthroplasty (UKA) has shown a higher rate of revision compared with total knee arthroplasty.']
+
+"How Frequently Do Four Methods for Mechanically Aligning a Total Knee Arthroplasty Cause Collateral Ligament Imbalance and Change Alignment from Normal in White Patients? AAOS Exhibit Selection."
+https://www.ncbi.nlm.nih.gov/pubmed/24951744
+['The proportion of total knee arthroplasties with ≥2 mm of instability between 0° of extension and 90° of flexion was 56% in the medial compartment and 6% in the lateral compartment for Method 1, 74% and 6% for Method 2, and 42% and 0% for Method 3.', 'The proportion of arthroplasties with a ≥2° change from normal was 58% for limb alignment and 58% for knee alignment.Surgeons should be aware that, when using the four methods of mechanically aligning a total knee arthroplasty, they will frequently have to manage a wide range of collateral ligament imbalances that are complex, cumulative, and uncorrectable by collateral ligament release, and a wide range of changes in limb and knee alignment from normal.']
+
+"Component position alignment with patient-specific jigs in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/24946273
+['We also recorded femoral coronal alignment of the last 98 patients of our group and found that 99% were within 90 ± 3 degrees.PSJ for TKA shows good accuracy in alignment when compared with conventional TKA.', 'Using a computer software program, specialized femoral and tibial pin placement jigs were generated.']
+
+"The effect of malrotation of tibial component of total knee arthroplasty on tibial insert during high flexion using a finite element analysis."
+https://www.ncbi.nlm.nih.gov/pubmed/24895658
+['We used Stryker NRG PS for analysis.', 'Vertical load was applied to femoral component which rotated from 0° to 135° while horizontal load along the anterior posterior axis was applied to tibial component during flexion.']
+
+"Rotational alignment of the distal femur: anthropometric measurements with CT-based patient-specific instruments planning show high variability of the posterior condylar angle."
+https://www.ncbi.nlm.nih.gov/pubmed/24888223
+['This last finding underlines that there is even an intra-individual difference in distal femoral anatomy that can range from 1° to 5°.This study was performed on a very large anthropometric CT and 3D models database and showed that there is a 41% risk of malalignment if a fixed PCA referenced of the PCL is used in total knee arthroplasty.', 'The posterior condylar line (PCL) is probably the easiest to find during surgery.']
+
+"Influence of the optical system and anatomic points on computer-assisted total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/24835533
+['Variability of the infrared optical measurement system had no significant influence on femoro-tibial alignment angles.The results of a Monte Carlo simulation indicate a certain level of vulnerability of navigation systems for guiding position in rotation, contrasting with robustness for guiding sagittal and coronal alignments.Level IV.Copyright © 2014 Elsevier Masson SAS.', 'Rotational variability (α, β, γ) of the femoral and tibial landmarks reflected implant positioning errors in flexion-extension, valgus-varus, and rotation, respectively.Taking into account the uncertainties pertaining to the 3D infrared optical measurement system and to anatomic point acquisition, the femoral and tibial landmarks exhibited maximal alpha (flexion-extension), beta (valgus-varus), and gamma (axial rotation) errors of 1.65° (0.9°); 1.51° (0,98°), and 2.37° (3.84°), respectively.']
+
+"Change in tibiofemoral rotational alignment during total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/24817492
+['Twenty-one of 51 knees (41%) exhibited rotational mismatch (>10°) preoperatively, and this number was reduced to eight knees (16%) post-TKA.', 'This study aims to evaluate rotational alignment of the knee by measuring both component rotation and version of the knee in TKA.Fifty-one TKAs (mean age 73.7 years) were included in this study.']
+
+"Total Ankle Arthroplasty Accuracy and Reproducibility Using Preoperative CT Scan-Derived, Patient-Specific Guides."
+https://www.ncbi.nlm.nih.gov/pubmed/24719401
+['This study evaluated repeatability of tibia and talus patient-specific guide placement and deviation between the preoperative plan and actual implant placement.Routine ankle CT scans were acquired of 15 cadaveric lower extremity limbs, converted into 3D solid models, and imported into a computer-assisted design assembly.', 'This level of reproducibility suggests a promise for this technology, and it is hoped this level of accuracy will become the benchmark for the next generation of total ankle arthroplasty.© The Author(s) 2014.arthritis; preoperative navigation system; total ankle arthroplasty']
+
+"Human tibial torsion--morphometric assessment and clinical relevance."
+https://www.ncbi.nlm.nih.gov/pubmed/24667672
+['Tibial torsion is an important anatomical parameter in clinical practice and displays variability among individuals.', 'These variations are extremely significant in view of alignment guides such as those related to rotational landmarks of tibia in total knee arthroplasty.']
+
+"Internal rotation of femoral component affects functional activities after TKA--survey with the 2011 Knee Society Score."
+https://www.ncbi.nlm.nih.gov/pubmed/24388616
+['Tibial component malrotation did not affect any of the scores of the 2011 KSS.', 'The rotational alignment of the femoral and tibial components was assessed with computed tomography in 75 patients (92 knees), and its effect on the scores of the KSS was evaluated.']
+
+"Relationship between the tibial mechanical axis and bony anatomical landmarks of the calf and foot as measured on radiographs obtained with a new laser-calibrated position."
+https://www.ncbi.nlm.nih.gov/pubmed/24191987
+['To investigate relationship between the tibial mechanical axis and bony landmarks of the calf and foot by developing a new laser-calibrated position for radiography of the lower limb.A total of 120 volunteers were randomly divided into two groups.', 'To consider the rotation of the calf, radiological features of the knee and ankle were investigated.']
+
+"Rotational alignment of the tibial component in total knee arthroplasty: the anterior tibial cortex is a reliable landmark."
+https://www.ncbi.nlm.nih.gov/pubmed/25606527
+["to compare the anterior tibial surface curvature, the Akagi's line and the medial third of the tibial tubercle in order to assess which is the most reliable landmark for correct tibial component rotational positioning in total knee arthroplasty.three independent investigators reviewed 124 knee MRI scans.", "The rotation of the tibial baseplate tracing was calculated with respect to the transepicondylar axis (TEA), the medial third of the tibial tubercle line, Akagi's line and the femoral posterior condylar axis (PCA)."]
+
+"Accurate alignment and high function after kinematically aligned TKA performed with generic instruments."
+https://www.ncbi.nlm.nih.gov/pubmed/23948721
+['The medial collateral ligament was not released.', 'The mean OKS score was 42, and WOMAC™ score was 89.']
+
+"Rotation in total knee arthroplasty: no difference between patient-specific and conventional instrumentation."
+https://www.ncbi.nlm.nih.gov/pubmed/23942938
+['The position of the implants (frontal and sagittal) was compared in the 2 groups on standard X-rays, and the rotational position was analysed on post-operative CT-scan.90 % of the patients add <2° or mm of difference between the planned position of the implants and the obtained position, except for the tibial rotation where the variations were much higher.', 'Randomization of patients into one of the two groups was done by the Hospital Informatics Department with the use of a systematic sampling method.']
+
+"Patient-specific total knee arthroplasty: the importance of planning by the surgeon."
+https://www.ncbi.nlm.nih.gov/pubmed/23942881
+['This planning was performed primarily by a technician of the company and offered to the surgeon.', 'The tibial component implanted was in 42 patients (84 %) the same as in the surgeon and in 19 patients (38 %) the same as in the technician plan (p < 0.0001).']
+
+"Maximizing tibial coverage is detrimental to proper rotational alignment."
+https://www.ncbi.nlm.nih.gov/pubmed/23653101
+['Using strict criteria, four commercially available tibial designs (two symmetric, two asymmetric) were placed on the resected tibial surface.', 'Traditionally, the placement of the tibial component in total knee arthroplasty (TKA) has focused on maximizing coverage of the tibial surface.']
+
+"Computed tomographic evaluation of femoral component rotation in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/23532377
+['Unbalanced knees can lead to instability, patellofemoral problems, persistent pain, stiffness, and generally poorer outcomes including early failure.', 'This angle represented the rotation of the femoral component relative to the true rTEA.The degree of rotation measured 2.67 ± 1.11 degrees in the PCCPTC group and 5.60 ± 1.64 degrees in the TEA group.The use of the TEA technique for determining rotational alignment in TKR results in excessive external rotation of the femoral component compared to the PCCPTC technique.Transepicondylar axis; mal-alignment; rotational alignment']
+
+"The effect of rotational fixation error of the tibial cutting guide and the distance between the guide and the bone on the tibial osteotomy in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/23528550
+['Proximal tibial cutting was simulated with the cutting guide placed at different rotational errors (-10°, 0°, 10° and 20° of internal rotation) and different distances (4 cm and 8 cm) between the alignment rod and the bone.', 'Our study demonstrated that rotational mismatch between the proximal and distal part of the tibia should be avoided and the distance between the alignment rod and the bone should be as short as possible to achieve proper tibial alignment.Copyright © 2013 Elsevier Inc. All rights reserved.extramedullary cutting guide; mechanical axis; proximal tibial osteotomy; total knee arthroplasty']
+
+"A novel and reproducible reference axis for distal tibial axial rotation."
+https://www.ncbi.nlm.nih.gov/pubmed/23489723
+['When the proximal medial-lateral axis was applied, the tibial torsion with reference to the PLA and the TMA was 12.0° ± 8.4°, and 23.3° ± 8.6°, respectively.', 'We hypothesized that the tibial plafond revealed a novel anatomical reference axis associated with the axial alignment through an image processing technique.']
+
+"Medial sixth of the patellar tendon at the tibial attachment is useful for the anterior reference in rotational alignment of the tibial component."
+https://www.ncbi.nlm.nih.gov/pubmed/23479057
+['We investigated where the modified AP axis crossed the patellar tendon at its tibial attachment.The modified AP axis passed through the medial 1/6 of the patellar tendon (4\xa0mm from medial edge) at its attachment in both varus and valgus knees.The AP axis of the tibia is useful as a tibial rotational reference in cutting the proximal tibia, but it is difficult to identify the AP axis after tibial resection.', 'The purpose of the current study was to determine a modified AP axis that runs parallel to the AP axis and passes through the centre of the cut surface in osteoarthritic knees.Preoperative computed tomography scans on 30 varus and 30 valgus knees undergoing TKA were studied using a three-dimensional software.']
+
+"Comparative study of anatomical landmark technique and self-aligned tibial component rotation determined by computer-assisted TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/23451436
+['There were 4 men and 26 women with mean age of 68.6 years.', 'There is controversial on determination of rotational alignment particularly on a tibial component.']
+
+"Is there a gold standard for TKA tibial component rotational alignment?"
+https://www.ncbi.nlm.nih.gov/pubmed/23392991
+['The impact of this variability on joint kinematics and stability is unknown.We determined how rotationally aligning the tibial component to four different axes changes knee stability and passive tibiofemoral kinematics in a knee after TKA.Using a custom surgical navigation system and stability device to measure stability and passive tibiofemoral motion, we tested 10 cadaveric knees from five hemicorpses before TKA and then with the tibial component aligned to four axes using a modified tibial tray.No changes in knee stability or passive kinematics occurred as a result of the four techniques of tibial rotational alignment.', "TKA produces a 'looser' knee over the native condition by increasing mean laxity by 5.2°, decreasing mean maximum stiffness by 4.5 N·m/°, increasing mean anterior femoral translation during passive flexion by 5.4 mm, and increasing mean internal-external tibial rotation during passive flexion by 4.8°."]
+
+"Rotational limb alignment changes following total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/23188500
+['Using these CT scans the neck-malleolar angle (NMA), the femoral posterior condylar angle (fPCA), the tibial posterior condylar axis (tPCA) and the tibial torsion angle (TTA) were independently assessed by three raters.', 'The aim of the present study was to assess the changes in rotational alignment introduced by total knee arthroplasty (TKA) and the reproducibility of pre- and postoperative CT measurements of rotational limb alignment.For this purpose we analyzed data from 196 consecutive cruciate-retaining, fixed bearing Columbus TKA procedures.']
+
+"One-stage total knee arthroplasty for patients with osteoarthritis of the knee and extra-articular deformity."
+https://www.ncbi.nlm.nih.gov/pubmed/23132502
+['Two patients underwent simultaneous extra-articular correctional osteotomy and TKA because the deformity was so large.', 'Tibial deformity of 16° in the coronal plane (11-22) was noted, and one had sagittal plane deformity of 21°.All patients were followed for an average of 29\xa0months.']
+
+"Tibial torsion among filipinos: a cadaveric study."
+https://www.ncbi.nlm.nih.gov/pubmed/25279052
+['Tibial torsion, the twisting of the tibia about its long axis, can affect rotational positioning in total knee replacement.', 'This angle varies depending on the ethnicity of the subject.']
+
+"Prosthesis alignment affects axial rotation motion after total knee replacement: a prospective in vivo study combining computed tomography and fluoroscopic evaluations."
+https://www.ncbi.nlm.nih.gov/pubmed/23088451
+['This prospective, in vivo study evaluates whether component malalignment and mismatch affect axial rotation motions during passive knee flexion after TKR.Eighty patients were implanted with mobile-bearing TKR.', 'These findings support previous studies linking prosthesis rotational alignment with inferior clinical and functional outcomes.Clinical Trials NCT01022099.']
+
+"Robot-assisted implantation improves the precision of component position in minimally invasive TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/22955398
+['Total knee arthroplasties were performed on 10 pairs of fresh cadaveric femora.', 'The purpose of this cadaveric study was to examine whether robot-assisted minimally invasive procedures improve TKA alignment after modifying the robotic techniques and instruments.']
+
+"MRI evaluation of rotational alignment and synovitis in patients with pain after total knee replacement."
+https://www.ncbi.nlm.nih.gov/pubmed/22933492
+['Using the additional soft-tissue detail provided by this modality, we also evaluated the extent of synovitis within these two groups.', 'Using MRI, we reviewed 50 patients with painful TKRs and compared them with a group of 16 asymptomatic controls to determine the feasibility of using MRI in evaluating the rotational alignment of the components.']
+
+"Alignment for total knee replacement: a comparison of kinematic axis versus mechanical axis techniques. A cadaver study."
+https://www.ncbi.nlm.nih.gov/pubmed/22890847
+['Two investigating surgeons performed total knee arthroplasties on randomly chosen sides using MA instruments.', 'This matched-pair cadaveric study compared the resulting postoperative alignments.A prospective series of 12 torsos were acquired for a total of 24 limb specimens including intact pelvises, femoral heads, knees, and ankles.The cadavers received MRI scans to manufacture the kinematic alignment cutting guides.']
+
+"A new approach to implant alignment and ligament balancing in total knee arthroplasty focussing on joint loads."
+https://www.ncbi.nlm.nih.gov/pubmed/22868781
+['With this system, optical or magnetic position tracking as well as any fixation of invasive rigid bodies are no longer necessary.', 'When both axes are coaxial, the resulting torques equal zero, and the tool axis can be fixed with respect to the bone.']
+
+"Aligning the tibial component with medial border of the tibial tubercle--is it always right?"
+https://www.ncbi.nlm.nih.gov/pubmed/22789681
+['Thus, the objective of current study was to quantify tibial rotational alignment in 120 primary rotating platform TKAs using the medial border of tibial tubercle as a landmark between July 2008 and June 2010.The femoral component was positioned parallel to the transepicondlylar axis, and a rotating platform trial insert was used to determine tibial insert rotational alignment relative to the most medial aspect of the tibial tubercle with the knee in full extension.', 'This investigation is based on the premise that all neutral points would lie within 10° of the mean.The mean divergence external to the medial border of the tubercle was 2.3°±3.5°.']
+
+"Centre of the posterior cruciate ligament and the sulcus between tubercle spines are reliable landmarks for tibial component placement."
+https://www.ncbi.nlm.nih.gov/pubmed/22751944
+['The whole-extremity mechanical axis deviation was outside the tolerance range of 3° in 4 patients (8.9 %).', 'The tibial guide was aligned with the sulcus between the tibial spines and the middle of the posterior cruciate ligament at the knee and with the tibialis anterior tendon at the ankle.The average post-operative coronal mechanical alignment was 1° varus (range 4.5° varus-1.5° valgus; SD ±1.51).']
+
+"Rotational alignment of femoral component for minimal medial collateral ligament release in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/22570827
+['We performed computed tomography (CT) scanning of the knee with 90 degree flexion in all of the patients and analyzed the angles between the distal femur landmarks and the tibial mechanical axis using a Picture Archiving Communication system.', 'We concluded that when a femoral component is small in size, greater than average external rotation needs to be applied and when a femoral component is large in size, less than average external rotation needs to be applied.Femur; Knee; Rotation alignment; Total knee arthroplasty']
+
+"Variability of the location of the tibial tubercle affects the rotational alignment of the tibial component in kinematically aligned total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/22476525
+['The purposes were (1) to determine the variability in the mediolateral location of the tibial tubercle with respect to the medial tibia on the magnetic resonance image (MRI) of the knee and (2) to determine whether the AP axis of the kinematically aligned tibial component intersects either the medial border or the medial 1/3 of the tibial tubercle.One hundred and fifteen knees in 111 consecutive subjects treated with total knee arthroplasty were studied.', 'The mediolateral location of the tibial tubercle was measured from a magnetic resonance image (MRI) of the knee.']
+
+"Comparison of robot-assisted and conventional total knee arthroplasty: a controlled cadaver study using multiparameter quantitative three-dimensional CT assessment of alignment."
+https://www.ncbi.nlm.nih.gov/pubmed/22348661
+['Two experienced surgeons performed the surgeries.', 'This study was conducted to determine whether robot-assisted total knee arthroplasty is superior to the conventional surgical method with regard to the precision of implant positioning.Twenty knee replacements, comprising ten robot-assisted procedures and ten conventional operations, were performed on ten cadavers.']
+
+"Rotational alignment in total knee arthroplasty: nonimage-based navigation system versus conventional technique."
+https://www.ncbi.nlm.nih.gov/pubmed/22340552
+['The prevalence of outliers (malalignment > ± 3° internal/external rotation) of the femoral component (31.7% vs. 12.5%) and the tibial component (36.6% vs. 15%) were significantly reduced when the navigation system was used (P < 0.05).', 'The effects of computer navigation-assisted total knee replacement and conventional total knee arthroplasty on rotational alignment, mechanical axis, component position and clinical outcomes were compared.Two methods were used in 82 patients and the rotation of the femoral and tibial components in the transverse plane, the combined rotation of the two components, the mismatch between them, and the mechanical axis of the lower limb were analyzed.']
+
+"Relationship between the tibial anteroposterior axis and the surgical epicondylar axis in varus and valgus knees."
+https://www.ncbi.nlm.nih.gov/pubmed/22205094
+['This study aims to determine whether the AP axis of the tibia is actually perpendicular to the SEA and useful for the tibial rotational alignment also in osteoarthritic knees.Preoperative computed tomography scans on 25 varus and 25 valgus knees undergoing TKA were studied.', 'The surgical epicondylar axis (SEA) has been frequently used to determine the femoral rotational alignment, and the anteroposterior (AP) axis of the tibia described in previous study has been introduced as a line perpendicular to the SEA in healthy knees.']
+
+"Comparison of the tibiofemoral rotational alignment after mobile and fixed bearing total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/22057385
+['There were no differences in the clinical outcomes including range of motion, knee society score, function score, HSS, and WOMAC score as well as the mean postoperative coronal tibiofemoral alignment between the two groups.The unpredictable change in the rotational axis of the tibia and its broad variability after rotating platform mobile bearing TKA may provide a warning against the use of a fixed landmark for establishing tibial rotational alignment.', 'The mean postoperative alignment of the tibia differed between the two groups (Group A:Group B = -2.9:0.2, P = 0.010) and its variability was significantly greater in group A (P < 0.001).']
+
+"Is the medial wall of the intercondylar notch useful for tibial rotational reference in unicompartmental knee arthroplasty?"
+https://www.ncbi.nlm.nih.gov/pubmed/22015998
+['We determined whether the origins of the ACL and PCL were located lateral to the line on the medial wall of the notch and whether the mediolateral dimension of the bone cut surface of the medial tibial plateau was wide enough relative to the AP dimension to use the commercially available unicompartmental knee arthroplasty tibial components when the tibia was cut parallel to the medial wall of the notch.At 90º flexion the medial wall of the notch was externally rotated 0.1º ± 4.4º relative to the AP axis.', 'This landmark would need to be confirmed in other populations and in patients with osteoarthritis.']
+
+"Rotational positioning of the tibial tray in total knee arthroplasty: a CT evaluation."
+https://www.ncbi.nlm.nih.gov/pubmed/21993150
+['Various surgical techniques have been described to set the rotational alignment of the tibial baseplate during total knee arthroplasty.', 'The tibial component was placed in internal rotation relative to the anatomic transepicondylar axis: 1.9° (SD : 4.93; extremes -13.6° to 7°) and 3° (SD : 4.38; extremes -16.2° to 4.8°).The tibial component is aligned parallel to the femoral component whatever the initial frontal deformity (P≅0.7).']
+
+"Influence of the position of the fibular head after implantation of a total knee prosthesis on femorotibial rotation."
+https://www.ncbi.nlm.nih.gov/pubmed/21956054
+['This close correlation (R=.73; P<.001) shows that the position of the fibular head determines femorotibial rotation.', 'The target parameter of correct rotation is the facilitation of femorotibial rotation over the entire range of motion with no implant overhang.']
+
+"Accuracy of anatomical references used for rotational alignment of tibial component in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/21761232
+['This study aimed to research which was the most reliable of the four techniques based on local anatomic markers used to determine tibial component rotation in total knee arthroplasty, and whether the markers varied in knees with varus deformity.The study included 33 knees with a normal anatomic axis and 32 knees with a varus deformity and osteoarthritis.', 'The relationships of these lines and the transposed TEA were compared between two groups.In all the knees, the mean values of the PC, AA, and MMLD axes compared to TEA reference were 5.5° ± 5.7 (mean ± SD), 7° ± 3.2, and 6.7° ± 8.1 internal rotation, respectively, and the AC axis was 8.9° ± 6.7 external rotation.']
+
+"Reliability of frames of reference used for tibial component rotation in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/21291345
+['This study evaluated seven different frames of reference used for tibial component rotation in total knee arthroplasty (TKA) to determine which ones showed good reliability between bone specimens.', 'There was high variability in the tibial rotational alignment associated with all frames of reference.']
+
+"Imageless navigation system does not improve component rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/21176919
+['When the cut-off value used for the alignment in the coronal and sagittal plane was 2° or 3°, imageless navigation significantly reduced the outlier rate of the femoral and tibial components compared with the conventional group.', 'The main purpose of this study is to summarize and compare the radiographic outcomes of TKA performed using imageless computer-assisted navigation compared with conventional techniques.An electronic search of PubMed, EMBASE, Web of Science, and Cochrane library databases was made, in addition to manual search of major orthopedic journals.']
+
+"Femoral component rotation in patients with leg axis deviation."
+https://www.ncbi.nlm.nih.gov/pubmed/21161176
+["We examined the influence of the preoperative leg axis on the rotation of the femoral component and the symmetry of the flexion gap after total knee arthroplasty using the tibial-cut-first technique.A retrospective study was carried out of 58 consecutive patients who underwent primary LCS total knee arthroplasty using the tibial-cut-first technique in 2008 based on preoperative full-leg radiographs and the final radiographs taken according to Kanekasu's technique.", 'The patients were divided into three groups (varus-valgus-neutral) according to their preoperative leg axis.Using the tibial-cut-first technique, a mean neutral rotation of the femoral component of 0.5° and a mean symmetrical flexion gap of -0.7° were achieved.']
+
+"Accuracy of single-plane fluoroscopy in determining relative position and orientation of total knee replacement components."
+https://www.ncbi.nlm.nih.gov/pubmed/21092967
+['These mean accuracy values and limits of agreement can be used to determine whether the shape-matching approach using single-plane fluoroscopic images is sufficiently accurate for an intended motion tracking application.Copyright © 2010 Elsevier Ltd. All rights reserved.', 'The objective of this study was to determine the accuracy of the single-plane fluoroscopy method in calculating the relative pose between the femoral component and the tibial component, along knee motion axes, while the components were in motion relative to one another.']
+
+"[Radiographic measurements in total knee arthroplasty and their role in clinical practice]."
+https://www.ncbi.nlm.nih.gov/pubmed/21059328
+['Those for varus knee deformity were: valgus angle, 7.2°; median, 7.0; modus, 7.0.', 'This group showed 76 extra-articular deformities (33.9 %).']
+
+"Imageless navigation assisted total knee arthroplasty with comprehensive gap balancing in medial osteoarthritic varus knees with anatomic variations."
+https://www.ncbi.nlm.nih.gov/pubmed/20807170
+['This study retrospectively compares the postoperative alignment of imageless navigation assisted (INA) total knee arthroplasties (TKAs) using comprehensive gap balancing with that of conventional TKAs in 72 medial osteoarthritic varus knees with coronal plane anatomic variations of the distal femur and proximal tibia.', 'The navigation group showed significantly lower postoperative differences in the mechanical axis (MA) of the lower limb (p = 0.003), with fewer outliers (p = 0.03), better femoral component positioning relative to the MA (p = 0.02), and less difference between the weight-bearing MA of the lower limb and the MA of the femur (p = 0.003) and tibia (p = 0.005).']
+
+"Is the anterior tibial tuberosity a reliable rotational landmark for the tibial component in total knee arthroplasty?"
+https://www.ncbi.nlm.nih.gov/pubmed/20452177
+['To analyze the morphology of the tibial plateau, we studied 100 computed tomographic scans of arthritic knees and measured the mediolateral (ML) and anteroposterior (AP) dimensions as well as their aspect ratio using 3 reference axes of rotation: transepicondylar axis (TEA), posterior tibial margin (PTM), and anterior tibial tuberosity (ATT) axis.', 'The AP and ML dimensions and aspect ratio differ significantly when the reference axis was ATT compared with PTM or TEA and variations were greater while using ATT axis.']
+
+"Rotational references for total knee arthroplasty tibial components change with level of resection."
+https://www.ncbi.nlm.nih.gov/pubmed/20352384
+['Various landmarks can guide tibial component rotational alignment in routine TKA, but with the deeper tibial resection levels common in complex primary and revision TKAs, it is unknown whether these landmarks remain reliable.We asked whether three techniques for determining tibial component rotation based on local anatomic landmarks are reliable deeper tibial resection levels.The femoral transepicondylar axis was identified by three independent reviewers on MR images of knees from 24 men and 24 women and transposed at a traditional tibial resection level and at the level of the proximal, middle, and distal parts of the proximal tibiofibular joint.', 'Three axes were drawn on axial slices at these levels: the geometric center of the tibial plateau to the medial 1/3 of the tubercle, the posterior condylar line of the tibia, and the largest mediolateral dimension of the tibia.']
+
+"[Computer-assisted total knee replacement (TKR) using Orthopilot navigation system]."
+https://www.ncbi.nlm.nih.gov/pubmed/20349171
+['Severe limitation of hip joint mobility, e.g., after arthrodesis of the hip joint or ipsilateral hip joint ankylosis.', 'Revision of unicondylar prosthesis.General contraindications to bicondylar knee replacement.']
+
+"Rotational alignment of the tibial component in total knee arthroplasty is better at the medial third of tibial tuberosity than at the medial border."
+https://www.ncbi.nlm.nih.gov/pubmed/20338042
+['Using the medial border of the tibial tubercle as a reference this variance was greater, only 3.8% had a femoro-tibial variance within +/- 5 degrees, 15% within +/- 10 degrees and 68.8% within +/- 20 degrees.Using fixed bone landmarks for rotational alignment leads to a notable variance between femoral and tibial components.', 'There is not a standard reference for the tibial component.']
+
+"[Accuracy of rotational positioning of the femoral component using the tibial-cut-first technique]."
+https://www.ncbi.nlm.nih.gov/pubmed/20135610
+['With this technique it was possible to ascertain the rotation of the femoral component after total knee arthroplasty easily and with a low level of radiation.', "We used Kanekasu's technique for the radiographs."]
+
+"Evaluation of tibial rotational alignment in total knee arthroplasty: a cadaver study."
+https://www.ncbi.nlm.nih.gov/pubmed/20057997
+['Various techniques exist for establishing tibial rotational alignment during total knee arthroplasty (TKA).', 'Twenty posterior stabilized TKAs were performed on cadavers.']
+
+"Assessment of the radii of the medial and lateral femoral condyles in varus and valgus knees with osteoarthritis."
+https://www.ncbi.nlm.nih.gov/pubmed/20048101
+['Understanding the relationship between the radii of the medial and lateral femoral condyles in varus and valgus knees is important for aligning the femoral component and for restoring kinematics in total knee arthroplasty.', 'There was a strong association between the radii of the medial and lateral femoral condyles in both the varus (r(2) = 0.9210) and the valgus (r(2) = 0.9129) knees.As determined by imaging of the femoral condyles perpendicular to the primary femoral axis of the knee, the asymmetry between the radii of the medial and lateral femoral condyles in varus and valgus knees with end-stage osteoarthritis was < or =0.2 mm, which is small enough to be considered clinically unimportant when aligning a total knee prosthesis.']
+
+"Effect of limb rotation on radiographic alignment in total knee arthroplasties."
+https://www.ncbi.nlm.nih.gov/pubmed/19898854
+['Without an application of limb rotation, the femoral component distance ratio was measured to be 0.89 (SD = 0.01), in 20 degrees internal rotation 0.63 (SD = 0.01) and in 20 degrees external rotation 1.16 (SD = 0.01).Limb rotation had a highly statistically significant effect on measured anatomic alignment and mechanical angles.', 'This could influence the radiographic outcome of TKA.']
+
+"Seven cuts to the perfect total knee."
+https://www.ncbi.nlm.nih.gov/pubmed/19751004
+['There are a total of 7 bone cuts in a typical total knee replacement (TKR): distal femur, anterior femur, posterior femur, anterior chamfer, posterior chamfer, tibia, and patella.', 'The tibial cut is challenging.']
+
+"Does lateral versus medial exposure influence total knee tibial component final external rotation? A CT based study."
+https://www.ncbi.nlm.nih.gov/pubmed/19748333
+['We measured first the angle formed between the perpendicular to the transverse axis of the tibial component and the axis joining the ATT to the center of the knee; second we also measured the coronal distance between the center of the component and the anterior tibial tuberosity (ATT).In the group using the medial approach, the lateral position of the ATT was 7 + or - 3mm with a rotation angle of 18 degrees .', 'We hypothesized that these improvements in patella centering were, at least in part, due to an increased external rotation of the tibial component.']
+
+"Rotational alignment of the distal femur: a literature review."
+https://www.ncbi.nlm.nih.gov/pubmed/19592323
+['This paper presents a literature review of previously published papers describing rotational alignment of the distal femur and discussing different techniques in obtaining correct rotational alignment of the femoral component in TKA.', 'The worst track record regarding inter- and intraobserver variability is for the TEA.']
+
+"Distal femur rotational alignment and patellar subluxation: a CT scan in vivo assessment."
+https://www.ncbi.nlm.nih.gov/pubmed/19473903
+['Three positionings were arbitrarily defined (less than 3 mm of lateralization, between 3 and 5 mm, over 5 mm).', 'Three angles were preoperatively measured using CT scans: (1) the posterior condylar angle between posterior bicondylar axis and transepiphyseal axis, (2) the anterior trochlear angle between transepicondylar axis and trochlear opening plane, (3) the sum of anterior trochlear and posterior condylar angles finally formed the global trochlear opening angle.The patella was centered in 86 cases and lateralized in 32 cases (less than 5 mm in 25 cases and over 5 mm in seven cases).']
+
+"In vivo adduction and reverse axial rotation (external) of the tibial component can be minimized."
+https://www.ncbi.nlm.nih.gov/pubmed/19472969
+['We used a radiographic image-matching technique to determine the contact kinematics during standing and kneeling at 90 degrees and maximum flexion in a series of 35 patients in which a new image-guided, custom cutting block system was used to kinematically align a cruciate-retaining prosthesis with the intent of restoring the 3 kinematic axes of the knee.', 'These more normal contact kinematics were achieved without release of the collateral ligaments or lateral retinaculum.']
+
+"A common reference frame for describing rotation of the distal femur: a ct-based kinematic study using cadavers."
+https://www.ncbi.nlm.nih.gov/pubmed/19407308
+['With the knees in full extension, the femoral transverse axis, connecting the centres of the best matching spheres of the femoral condyles, almost coincided with the tibial transverse axis (mean difference -0.8 degrees , sd 2.05).', 'Three-dimensional reconstructions were made to determine the anatomical surface points and geometrical references.']
+
+"Arthrodesis of the knee using computer navigation in failed total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/19309051
+['We believe that computer navigation could be an alternative surgical option for arthrodesis for failed TKA secondary to intra-articular infection and could be used for failed TKA with extra-articular deformity.', 'The arthrodesis was held in proper axial and rotational alignment.']
+
+"Skeletal landmarks for TKR implantations: evaluation of their accuracy using EOS imaging acquisition system."
+https://www.ncbi.nlm.nih.gov/pubmed/19251231
+['Uncertainty was estimated by the 95% confidence interval (95% CI).The landmarks located at the middle of the segment joining the center of each posterior condyle and at the barycenter of the plateaux showed a greater reliability; these landmarks uncertainty (95% CI) of Tx, Ty, Tz was less than 1, 0.5, 1.5 mm for the femur and 1.5, 0.6, 0.6 mm for the tibia, respectively.', 'This evaluation was based on multiple three-dimensional (3D) computer reconstructions of the lower extremity derived from an EOS biplanar low-dose X-ray system acquisition.']
+
+"Mechanical accuracy of navigated minimally invasive total knee arthroplasty (MIS TKA)."
+https://www.ncbi.nlm.nih.gov/pubmed/19070495
+['Two groups of 20 patients requiring total knee arthroplasty due to degenerative or posttraumatic knee osteoarthritis were included.', 'Twenty consecutive patients received conventional CN-TKA and 20 consecutive patients received minimally invasive CN-TKA.']
+
+"[Rotational alignment of femoral component with computed-assisted surgery (CAS) during total knee arthroplasty]."
+https://www.ncbi.nlm.nih.gov/pubmed/18929753
+['We believe that preoperative CT scanning is a more favourable method.', 'These findings were compared to a previous series of 34 cases using an arbitrary 3 degrees standardized rotation of the femoral component and following an identical radiological protocol.']
+
+"Three-dimensional analysis of computed tomography-based navigation system for total knee arthroplasty: the accuracy of computed tomography-based navigation system."
+https://www.ncbi.nlm.nih.gov/pubmed/18848426
+['We evaluated the postoperative alignment of 37 primary total knee arthroplasties performed using a computed tomography-based navigation system (Vector Vision Knee 1.5; Brain Lab, Germany) with a new 3-dimensional analysis.', 'Three-dimensional analysis is necessary to evaluate the accuracy of the navigation system.']
+
+"The comparison of femoral component rotational alignment with transepicondylar axis in mobile bearing TKA, CT-scan study."
+https://www.ncbi.nlm.nih.gov/pubmed/18839844
+['Within 3 degrees to aTEA or sTEA, this technique produced femoral rotational angle closer to sTEA when the sulcus was detected and produced a wide range of different angles when compared to aTEA.', 'When sTEA was detected, no knee was in internal or external rotation more than 3 degrees to sTEA.The balanced flexion gap technique positions the femoral component in external rotation with the LCS TKA.']
+
+"Rotational position of femoral and tibial components in TKA using the femoral transepicondylar axis."
+https://www.ncbi.nlm.nih.gov/pubmed/18825470
+['We wondered whether coronal axes in the tibia and femur based on the transepicondylar axis in the femur would correlate with anteroposterior deformity.', 'We obtained computed tomography scans of 100 patients with arthritis before they underwent TKA.']
+
+"Computer-assisted and conventional total knee replacement: a comparative, prospective, randomised study with radiological and CT evaluation."
+https://www.ncbi.nlm.nih.gov/pubmed/18669959
+['There was no statistically significant difference regarding the occurrence pattern of outliers in mechanical malalignment but the number of outliers was reduced in the navigated group.', 'No notable differences were found between computer-assisted navigation and conventional implantation techniques as regards the rotational alignment of the femoral or tibial components.']
+
+"Bony landmarks and rotational alignment in total knee arthroplasty for Chinese osteoarthritic knees with varus or valgus deformities."
+https://www.ncbi.nlm.nih.gov/pubmed/18534418
+['This finding is particularly prominent in Chinese osteoarthritic knees with varus or valgus deformities.', 'The purpose of this study was to investigate the rotational mismatch of total knee arthroplasty when taking the medial one third of the tibial tuberosity as a rotational landmark in Chinese osteoarthritic knees.']
+
+"Custom-fit total knee arthroplasty (OtisKnee) results in malalignment."
+https://www.ncbi.nlm.nih.gov/pubmed/18165024
+['We report on 4 patients who underwent total knee arthroplasty with OtisKnee system (OtisMed, Hayward, Calif).', 'The recommended custom cuts were as follows: valgus/varus cuts on the femur (5.5 degrees valgus to 0.5 degrees varus) in reference to the mechanical axis, flexion cuts on the femur (4 degrees -9 degrees of flexion); femoral rotation was within 1 degrees of the epicondylar axis; valgus/varus cut on the tibia (3 degrees of valgus to 7.5 degrees of varus); tibial slope (5.5 degrees of anterior slope to 0.5 degrees of posterior slope).']
+
+"Imageless navigation for TKA increases implantation accuracy."
+https://www.ncbi.nlm.nih.gov/pubmed/17620811
+['We performed a prospective randomized study to compare the radiographic results and the 3-month clinical outcomes in 100 patients who had TKAs using an imageless navigation system with 100 patients treated using conventional implantation instruments.', 'We measured component alignment by standard radiographs.']
+
+"Bone landmarks are more reliable than tensioned gaps in TKA component alignment."
+https://www.ncbi.nlm.nih.gov/pubmed/17563704
+['We studied 12 normal cadaveric knees (six with each technique) for stability, alignment, load-bearing stress transfer characteristics, and patellar groove position after TKA.', 'We hypothesized a bone landmark technique would result in normal alignment, stability, and load-bearing characteristics and that the tensioned gap technique results in malalignment.']
+
+"How accurate is Whiteside's line as a reference axis in total knee arthroplasty?"
+https://www.ncbi.nlm.nih.gov/pubmed/17428665
+["Whiteside's line is considered to be perpendicular to the epicondylar axis and therefore a reliable axis of reference.", 'There is an increasing focus on the precision with which prostheses in the knee are inserted with advent of computer assisted surgery.']
+
+"[Rotational landmarks and total knee arthroplasty in osteoarthritic knees]."
+https://www.ncbi.nlm.nih.gov/pubmed/17419197
+['To investigate the rotational mismatch of total knee replacement with medial 1/3 of tibial tuberosity as bony landmark in osteoarthritic patients with varus or valgus deformity.Axial images on computed tomography of 62 knees (including 55 varus deformities and 7 valgus deformities) in 32 Chinese osteoarthritic patients who had total knee arthroplasty were analyzed, compared with that of 10 healthy knees.', 'The angle between these lines (Angle a) was defined as the rotational mismatch between the components when they were aligned to the anatomic landmarks of each bone.The sulcus of medial epicondyle of femur could be identified on CT images of over 80% osteoarthritic knees; the median value of PCA was +2.36 degrees, with an individual variation of 0 degree to +7.5 degrees.']
+
+"Computer-assisted gap equalization in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/17400087
+['To assess outcome, a tibial load transducer measured medial and lateral compartment forces and tibial rotation.', 'This in vitro biomechanical study compared a conventional balancing technique in knee arthroplasty to a technique using computer assistance.']
+
+"A prospective, randomized study of computer-assisted and conventional total knee arthroplasty. Three-dimensional evaluation of implant alignment and rotation."
+https://www.ncbi.nlm.nih.gov/pubmed/17272435
+['Whether a computer-assisted implantation technique can improve the accuracy of the spatial positioning of an implant is a matter of debate.', 'We found that the rotational alignment of the component was not improved through navigation by solely referencing to the epicondylar axis for the femur and the tuberosity for the tibia.']
+
+"Determining the rotational alignment of the tibial component at total knee replacement: a comparison of two techniques."
+https://www.ncbi.nlm.nih.gov/pubmed/17259415
+['We prospectively assessed the benefits of using either a range-of-movement technique or an anatomical landmark method to determine the rotational alignment of the tibial component during total knee replacement.', 'We found that the range-of-movement technique tended to leave the tibial component more internally rotated than when anatomical landmarks were used.']
+
+"Synchronisation of tibial rotational alignment with femoral component in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/17219211
+['We developed a connecting instrument to synchronise the axis of the tibia to the axis of the femur.', "We compared the rotational axis of the tibial component using our method and medial one third of tibial tuberosity (Insall's reference) in 70 consecutive TKAs."]
+
+"Alignments and clinical results in conventional and navigated total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/17195810
+['The navigated technique also reduced the number of cases with final mechanical axes greater than 3 degrees from 20.0% to 1.7%.', 'The intraoperative measurements (mean +/- standard deviation) at the resection planes showed navigated surgeries result in more accurate alignments than conventional surgeries for the femur: in the frontal plane, 0.1 degrees +/- 0.9 degrees and 0.7 degrees +/- 1.6 degrees valgus, respectively; in the sagittal plane, 1.1 degrees +/- 1.8 degrees and 2.8 degrees +/- 2.0 degrees flexion; and in the transversal plane, 0.1 degrees +/- 1.2 degrees and 0.9 degrees +/- 1.7 degrees internal rotation.']
+
+"Preliminary radiological evaluation of the Vector Vision CT-free knee module for implantation of the LCS knee prosthesis."
+https://www.ncbi.nlm.nih.gov/pubmed/17161605
+['We have assessed the bone cuts achieved at surgery as compared to the planned cuts produced during computer assisted surgery (CAS) using a CT-free navigation system.', 'This study has presented preliminary data regarding the efficacy of a particular navigation system with regards to improving upon the accuracy of component position with the long-term aspiration of improving upon TKR longevity.']
+
+"The effect of ankle rotation on cutting of the tibia in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/17142413
+['We measured the rotational angle between the anteroposterior axis of the ankle joint and the proximal part of the tibia.', 'We hypothesized that a rotational mismatch might cause incorrect positioning of an extramedullary alignment guide and evaluated such a mismatch on the predicted postoperative coronal alignment of the tibia.Fifty-three osteoarthritic knees with varus deformity in fifty-one patients were evaluated with use of computerized tomography scans before total knee arthroplasty.']
+
+"[Axial lower limb alignment and knee geometry in patients with osteoarthritis of the knee]."
+https://www.ncbi.nlm.nih.gov/pubmed/17124451
+['We selected a random sample for study.', 'We recorded overall deformation, femoral valgus, tibial varus, HKA angle, HKS angle (mechanical/anatomic axis of the femur) and angle C (horizontal inclination of the ankle to the ground).']
+
+"Multiparameter quantitative computer-assisted tomography assessment of unicompartmental knee arthroplasties."
+https://www.ncbi.nlm.nih.gov/pubmed/16922897
+['Unicompartmental knee arthroplasty is a popular alternative to total knee replacement in selected patients.', 'Tibial components were implanted with a mean 3.47 degrees varus and 5.1 degrees posterior slope.']
+
+"The high variability of tibial rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/16906095
+['We evaluated the precision and accuracy of five tibial rotational alignment techniques to determine whether computer-assisted navigation systems can reduce variability of tibial component rotational alignment when compared to traditional instrumentation.', 'Two computer-assisted techniques (axes between the most medial and lateral border of the tibial plateau, and between the posterior cruciate ligament [PCL] and the anterior tibial crest) and the traditional technique were least variable, with standard deviations of 9.9 degrees, 10.8 degrees, and 12.1 degrees, respectively.']
+
+"[Femoral shaft bowing in valgus knees: an anatomic study]."
+https://www.ncbi.nlm.nih.gov/pubmed/16800069
+['We hypothesize that the same could be true for degenerative disease of constitutional valgus knees.', 'Thus for equivalent anatomic valgus (SKI), minimal bowing (f) of the femoral shaft in valgus knees leads to greater mechanical valgus (HKI).']
+
+"[Radiographic analysis of rotational malalignment between tibial component and femoral component in total knee arthroplasty]."
+https://www.ncbi.nlm.nih.gov/pubmed/16784627
+['To identify possible reasons of rotational mismatch between tibial component and femoral component in total knee arthroplasty and choose a right reference axis for placing the components in the operation and to decrease the complications.Forty normal Chinese knees were studied.', 'There were 20 men and 20 women, and average age was 34 years (range, 18 - 42 years).']
+
+"Accuracy of a computer-assisted navigation system for total knee replacement."
+https://www.ncbi.nlm.nih.gov/pubmed/16645104
+['Using a digital caliper unit to measure the coordinates precisely, a software program was developed to convert these local coordinates into a determination of actual leg alignment.', 'This is the first study designed to assess the accuracy of a clinically-validated navigation system.']
+
+"Femoral component rotation in mobile-bearing total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/16632363
+['We evaluated 38 randomly selected mobile-bearing TKA in which this technique was utilized.', 'The surgical technique utilized for the LCS mobile-bearing since 1977 has been a tibial cut first method which requires determination of femoral rotation with tension spacing.']
+
+"Investigation of in vivo 6DOF total knee arthoplasty kinematics using a dual orthogonal fluoroscopic system."
+https://www.ncbi.nlm.nih.gov/pubmed/16596640
+['Varus rotation was also measured with flexion but had a mean magnitude less than 2.0 degrees.', 'This article presents a technique that uses two fluoroscopes to form a dual orthogonal fluoroscopic system for accurately measuring in vivo 6DOF total knee arthoplasty (TKA) kinematics.']
+
+"[Rotational malalignment causing patellofemoral complications after total knee replacement]."
+https://www.ncbi.nlm.nih.gov/pubmed/16503534
+['To study the rotation of femoral component and tibial component with CT and evaluate the relationship between patellofemoral complications and rotational alignment of the components.Thirty patients with isolated patellofemoral complications after total knee arthroplasty were compared with 20 patients with well functioning total knee replacements free of patellofemoral complications.', 'The epicondylar axis and tibial tubercle were used as references on CT scans to quantify the rotational alignment of the femoral and tibial components.Patients with patellofemoral complications had excessive combined (tibial plus femoral) internal component rotation, which was directly proportional to the severity of the patellofemoral complications.']
+
+"All-polyethylene vs. metal-backed tibial component in total knee arthroplasty-a randomized RSA study comparing early fixation of horizontally and completely cemented tibial components: part 1. Horizontally cemented components: AP better fixated than MB."
+https://www.ncbi.nlm.nih.gov/pubmed/16470428
+['We used proximal cement-ing, including only the horizontal part of the tibia with avoidance of the stem-bone interface.The positioning of the implants, as judged by the HKA angle, showed an average neutral alignment in both groups.', 'We evaluated metal backing versus all-polyethylene using horizontal cementing technique.We randomized 40 patients with knee arthrosis (40 knees) to 2 groups: cemented total knee arthroplasty (AGC, Biomet) using either all-polyethylene (AP) or metal-backed (MB) tibial components (n = 20 for each group).']
+
+"Computer-assisted total knee arthroplasty: comparative results in a preliminary series of 72 cases."
+https://www.ncbi.nlm.nih.gov/pubmed/16459860
+["We compared the axis alignment achieved in 72 LCS TKA's performed with navigation assistance to a historical cohort of 62 LCS TKA's implanted with the conventional instrumentation.", 'There were no outliers in the computer-assisted series whereas 47% of the cases in the conventional series showed deviations of the mechanical axis of the lower limb of more than 2 degrees from neutral alignment.']
+
+"BoneMorphing versus freehand localization of anatomical landmarks: consequences for the reproducibility of implant positioning in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/16410232
+['Tibial implant reproducibility for each method was comparable, with the morphometric model giving better results in well-digitized areas such as the tibial plateau.A CAS-TKA protocol based on a deformed statistical model offers reproducible implant positioning.', 'This study analyzed the influence of the acquisition method in image-free computer-assisted total knee arthroplasty (CAS-TKA), and the reproducibility of implant planning using BoneMorphing, a 3D morphometric model obtained by a 3D-to-3D elastic registration of statistical models to sparse point clouds acquired directly on the bone surface with a pointer.Five surgeons (one expert, four trainees) each performed a CAS-TKA hybrid protocol based on morphometric models and landmarks on a cadaveric knee 10 times.']
+
+"Determination of neutral tibial rotational alignment in rotating platform TKA."
+https://www.ncbi.nlm.nih.gov/pubmed/16239791
+['We hypothesized that all neutral points would lie within 10 degrees of the mean.', 'We aimed to quantify tibial rotational alignment in 109 primary rotating platform TKAs.']
+
+"Distal femoral cut perpendicular to the mechanical axis may induce varus instability in flexion in medial osteoarthritic knees with varus deformity in total knee arthroplasty: a pitfall of the navigation system."
+https://www.ncbi.nlm.nih.gov/pubmed/16228670
+['Two factors that influence the external rotation angle of the femoral rotational axis in total knee arthroplasty (TKA) were assessed in 40 medial osteoarthritic knees with varus deformity.', 'Therefore, when the distal femur is cut perpendicular to the mechanical axis, the cut surface may be in too much of a valgus position.']
+
+"Variability of extraarticular tibial rotation references for total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/15995437
+['To assess variability of three anatomic reference axes (a new tibial anteroposterior axis that we proposed, the transmalleolar axis of the ankle, and the second metatarsus bone axis of the foot), we measured the angles between a defined anteroposterior axis of the tibia (a line perpendicular to the transepicondylar axis) and each of the three axes in 57 knees of healthy subjects using computed tomography scans.', 'These data indicate that our proposed tibial anteroposterior axis is more reliable for determining rotational alignment of the tibial component in total knee arthroplasty.']
+
+"Navigation improves accuracy of rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/15346071
+['The primary variable was rotation of the femoral component in the transverse plane, measured from postoperative radiographs and computed tomography images.', 'The patients were randomly divided into two groups: Group C patients had conventional total knee arthroplasty without navigation; Group N patients had total knee arthroplasty using a computer-assisted knee navigation system.']
+
+"Computer-assisted total knee replacement. A controlled cadaver study using a multi-parameter quantitative CT assessment of alignment (the Perth CT Protocol)."
+https://www.ncbi.nlm.nih.gov/pubmed/15330021
+['The rotation of the tibial component was measured with reference to the posterior tibial condyles and the tibial tuberosity.', 'The rotation of the femoral component was measured relative to the transepicondylar axis.']
+
+"Comparison of kinematic analysis by mapping tibiofemoral contact with movement of the femoral condylar centres in healthy and anterior cruciate ligament injured knees."
+https://www.ncbi.nlm.nih.gov/pubmed/15304265
+['Two methods of analysis of knee kinematics from magnetic resonance images (MRI) in vivo have been developed independently: mapping the tibiofemoral contact, and tracking the femoral condylar centre.', 'These two methods are compared for the assessment of kinematics in the healthy and the anterior cruciate ligament injured knee.']
+
+"[The accuracy of palpation from orientation points for the navigated implantation of knee prostheses]."
+https://www.ncbi.nlm.nih.gov/pubmed/15007558
+['Therefore, palpation of more than one rotational axis at the femur and tibia is mandatory and should be visualized on the monitor during surgery.', 'The vectors that influence the implant position show a mean femoral deviation of 0.9 mm and a mean tibial deviation of 1.0 mm.']
+
+"Tibial axis and patellar position relative to the femoral epicondylar axis during squatting."
+https://www.ncbi.nlm.nih.gov/pubmed/14658111
+['These findings can be used as the basis for development of new total knee arthroplasty components that recreate normal patellofemoral kinematics, and may provide important guidelines for alignment of the tibial and femoral components.', 'The reduced mediolateral shift of the patella suggests that alignment of the femoral component with the FE axis will aid patellar tracking about a circular arc with small deviations in the medial-lateral direction.']
+
+"Linkage guide for rotational alignment during total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/14557929
+['The wire was used as a reference to determine tibial component rotation.', 'The results of radiographic analysis were compared with those in a control group of 25 knees where the guide was not employed.']
+
+"Anatomic rotational relationships of the proximal tibia, distal femur, and patella: implications for rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/12934219
+['When the tibial baseplate was aligned along the PT axis, 30% of the cases were in an ideal position.', 'When the FE axis was used, 73% were ideal.']
+
+"Instrumentation pitfalls: you just can't go on autopilot!"
+https://www.ncbi.nlm.nih.gov/pubmed/12730922
+['There may be difficulties of deformity with bone and cartilage loss, especially in valgus knees.', 'The entrance point for intramedullary guides for both the femur and tibia should not be arbitrarily chosen but picked after evaluation of the intersection of the anatomic axes of the respective bones with their articular surfaces.']
+
+"Medial torsion of the tibia in Japanese patients with osteoarthritis of the knee."
+https://www.ncbi.nlm.nih.gov/pubmed/12616062
+['To assess the reliability of the landmarks for the rotationally neutral alignment of the tibial component in total knee arthroplasty for Japanese patients, the rotational position of the medial (1/3) of the tibial tuberosity relative to the femoral epicondylar line (Angle TT) and that relative to the center of the ankle (Angle TT-AA) were measured in 24 knees with medial femorotibial osteoarthritis and in 28 normal knees by computed tomography.', 'The range of Angle TT and that of Angle TT-AA each was greater than 40 degrees.']
+
+"Bone anatomy and rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/12218484
+['When it is present, the tibial component should be realigned to match the femoral component rotation to minimize problems caused by the mismatch.', 'There was a tendency to align the tibial component in external rotation relative to the femoral component.']
+
+"Soft tissue balancing: the knee."
+https://www.ncbi.nlm.nih.gov/pubmed/12068398
+['To align the knee in the flexed position, the femoral surfaces are resected perpendicular to the anteroposterior axis of the femur.', 'To align the knee during total knee arthroplasty, the distal femoral cuts are aligned in 5 degrees to 7 degrees valgus to the long axis of the femur, and the tibial surface is cut perpendicular to the long axis of the tibia.']
+
+"Fixed- versus mobile-bearing total knee arthroplasty: technical issues and surgical tips."
+https://www.ncbi.nlm.nih.gov/pubmed/11866162
+['The use of the fixed femoral landmarks for the rotational positioning of the femoral component (measured resection technique) is not acceptable if bearing dislocation is to be avoided.', 'The success of this technology depends on strict adherence to the principles of flexion-extension gap technique.']
+
+"Component rotation and anterior knee pain after total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/11716424
+['There was no significant difference in the degree of radiographic patellar tilt or patellar subluxation between the two groups.', 'There was a highly significant difference in tibial component rotation between the two groups with the patients with anterior knee pain averaging 6.2 degrees internal rotation compared with 0.4 degrees external rotation in the control group.']
+
+"Surgical epicondylar axis vs anatomical epicondylar axis for rotational alignment of the femoral component in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/11529366
+['Twenty-nine per cent of knees had prominent medial epicondyle (a landmark for AEpi axis) and 5 per cent had prominent medial sulcus (a landmark for SEpi axis).', 'Thirty-two knees were varus and 23 knees were neutral in alignment.']
+
+"Observations of the proximal tibia in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/11501804
+['The current study showed that when the tibia is allowed to float in a functional position relative to the femoral implant, the tibial external rotation was only 2 mm lateral from the medial age of the tibial tubercle; this is far less than the medial 1/3 of the tubercle and close to the starting point of the midsulcus line.', 'The current study showed that a line drawn 1 mm medial to the medial border of the tibial tubercle and going through the midsulcus of the tibial spines (the midsulcus line) provided a reproducible landmark for the tibia, and when a perpendicular cut was made relative to this line, 46 of 50 knees were cut in appropriate alignment.']
+
+"Effect of femoral and tibial component position on patellar tracking following total knee arthroplasty: 10-year follow-up of Miller-Galante I knees."
+https://www.ncbi.nlm.nih.gov/pubmed/11491425
+['This study showed the internally rotated femoral and tibial component were related to the patellar maltracking.', 'This malalignment of the components, as well as nonanatomical patellar groove and metal-backed patellar component, could be one of the causes of the patellofemoral complications with the Miller-Galante I knee.']
+
+"Patellofemoral complications following total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/11372340
+['When tibial tubercle osteotomy is necessary, the technique of Whiteside, using wire fixation of the osteotomy, is preferred.', 'These techniques may include the quadriceps snip, modified V-Y quadriceps turndown, and tibial tubercle osteotomy.']
+
+"[Computerized tomography assessment of femoral and tibial rotation in total knee prosthesis]."
+https://www.ncbi.nlm.nih.gov/pubmed/11262817
+['We used a modification of Berger technique and carried out comparative CT scans extended lower limbs and acquisitions perpendicular to the mechanical axis of the knee, from the femoral supracondylar region down to the plane crossing the distal end of the tibial prosthetic component.', 'We measured the orientation of the prosthetic components introducing a CT procedure which modifies the uniarticular with four scans introduced by Berger.']
+
+"Anatomic variations should be considered in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/10982663
+['This angle was more than 3 degrees in 20% of the patients.', 'The results showed that the characteristics of the knees were bowing of the femoral shaft and proximal tibia vara, with lateral offset of the tibial shaft with respect to the center of the tibial plateau.']
+
+"Does axial limb rotation affect the alignment measurements in deformed limbs?"
+https://www.ncbi.nlm.nih.gov/pubmed/10693572
+['This study evaluates the effect of axial rotation on measured tibiofemoral angles and the angle formed between the anatomic and mechanical axes of the femur in lower extremities with valgus and varus deformities.', 'The results of the study indicate the tibiofemoral angle measurements are more sensitive to axial limb rotation in lower extremities with valgus or varus deformity than are normally aligned limbs.']
+
+"Malrotation causing patellofemoral complications after total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/9917679
+['Using this computed tomography study can determine wether rotational malalignment is present and thus, whether revision of one or both components may be indicated.', 'This excessive combined internal rotation was directly proportional to the severity of the patellofemoral complication.']
+
+"Reliability of the anteroposterior axis and the posterior condylar axis for determining rotational alignment of the femoral component in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/9662661
+['We examined the reliability of the anteroposterior and posterior condylar axes for determining rotational alignment of the femoral component in total knee arthroplasty (TKA).', 'The results demonstrated that the anteroposterior axis was rotated externally to a significant degree in medial FT-OA knees and was less reliable than the posterior condylar axis for use in alignment for TKA on medial FT-OA knees.']
+
+"Femoral rotational alignment using the tibial shaft axis in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/8895618
+['Using computed tomography, the posterior condyle axis method gave a posterior condyle angle of 5 degrees and 4 degrees compared with the transepicondylar axis, whereas the tibial shaft axis technique measured 0 degrees and 1 degree.', 'Two patients had both techniques in opposite knees.']
+
+"Effect of medial displacement of the tibial tubercle on patellar position after rotational malposition of the femoral component in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/8676107
+['With a 5 degrees externally rotated femoral component, normal patellar tracking occurred.', 'This allowed the quadriceps tendon, the patella, and the patellar tendon to form a straight line.']
+
+"Morphology of the transepicondylar axis and its application in primary and revision total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/8749761
+['Thirteen cadaver specimens were dissected and mounted to a metal frame with a pin passing through the TEA.', 'The ratio of the upper leg to lower leg measured from femoral head center and ankle center to TEA was 1.02.']
+
+"Malrotation associated with implant alignment technique in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/7497681
+['This study documents the malrotation between the femoral and tibial components associated with contemporary alignment techniques that position the tibial component relative to the tubercle, posterior tibial condyles, transtibial axis, and malleoli.', 'The technique that allows the tibial component to float into alignment as the knee is passed through a range of motion and the technique of coupling the tibial component to the femoral component also were assessed.']
+
+"The anteroposterior axis for femoral rotational alignment in valgus total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/7497664
+['Two years after surgery, no knees had patellar instability.', 'Total knee arthroplasty was done in 46 valgus knees between 1980 and 1986 using the posterior femoral condyles as landmarks for rotational alignment.']
+
+"Assessing rotational alignment in total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/7671514
+['This technique was demonstrated with repeated measurements by 2 independent observers to be accurate and reproducible in documenting the rotation of knee implants.', 'This technique has clinical application in determining the accuracy of contemporary alignment techniques, assessing the reliability of anatomic landmarks referenced in implant alignment, and documenting the impact of malrotation on the function and longevity of components in total knee arthroplasty.']
+
+"Version of the osteoarthritic knee."
+https://www.ncbi.nlm.nih.gov/pubmed/8163979
+['Version of the osteoarthritic knee was 5 degrees.', 'Version of the knee is defined as the static rotation of the tibia with respect to the femur in full knee extension.']
+
+"Wear patterns on retrieved polyethylene tibial inserts and their relationship to technical considerations during total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/8119035
+['Twenty inserts were ultra-high molecular weight polyethylene (UHMWPE) and 35 were carbon-reinforced polyethylene.', 'Twelve of these knees did not have a medial release at the time of initial arthroplasty.']
+
+"Radiological analysis of normal axial alignment of femur and tibia in view of total knee arthroplasty."
+https://www.ncbi.nlm.nih.gov/pubmed/8409995
+['This axis corresponds to the overall femoral anatomical axis and encloses a valgus angle of 6 degrees with the mechanical axis of the femur.', 'It allows for design of shorter intramedullary guiding instruments that will still be in congruency with true femur geometry.']
+
